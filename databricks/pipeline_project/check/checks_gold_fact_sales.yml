@@ -1,0 +1,120 @@
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Sales_Person_Key
+
+- criticality: error
+  check:
+    function: is_not_less_than
+    arguments:
+      col_name: Sales_Person_Key
+      limit: 1
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Product_Key
+
+- criticality: error
+  check:
+    function: is_not_less_than
+    arguments:
+      col_name: Product_Key
+      limit: 1
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Country_Key
+
+- criticality: error
+  check:
+    function: is_not_less_than
+    arguments:
+      col_name: Country_Key
+      limit: 1
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Date_Key
+
+- criticality: error
+  check:
+    function: is_valid_date
+    arguments:
+      col_name: Date_Key
+      date_format: yyyyMMdd
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Revenue
+
+- criticality: error
+  check:
+    function: is_not_less_than
+    arguments:
+      col_name: Revenue
+      limit: 1
+
+- criticality: error
+  check:
+    function: regex_match
+    arguments:
+      col_name: Revenue
+      regex: '[0-9]+'
+      negate: False
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Boxes_Shipped
+
+- criticality: error
+  check:
+    function: is_not_less_than
+    arguments:
+      col_name: Boxes_Shipped
+      limit: 1
+
+- criticality: error
+  check:
+    function: regex_match
+    arguments:
+      col_name: Boxes_Shipped
+      regex: '[0-9]+'
+      negate: False
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Revenue_Per_Box
+
+- criticality: error
+  check:
+    function: is_not_less_than
+    arguments:
+      col_name: Revenue_Per_Box
+      limit: 0
+
+- criticality: error
+  check:
+    function: regex_match
+    arguments:
+      col_name: Revenue_Per_Box
+      regex: '[0-9]+'
+      negate: False

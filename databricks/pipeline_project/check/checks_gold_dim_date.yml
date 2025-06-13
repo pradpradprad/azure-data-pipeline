@@ -1,0 +1,133 @@
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Date_Key
+
+- criticality: error
+  check:
+    function: is_unique
+    arguments:
+      col_name: Date_Key
+
+- criticality: error
+  check:
+    function: is_valid_date
+    arguments:
+      col_name: Date_Key
+      date_format: yyyyMMdd
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Date
+
+- criticality: error
+  check:
+    function: is_valid_date
+    arguments:
+      col_name: Date
+      date_format: yyyy-MM-dd
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Year
+
+- criticality: error
+  check:
+    function: is_not_less_than
+    arguments:
+      col_name: Year
+      limit: 2000
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Quarter
+
+- criticality: error
+  check:
+    function: is_in_range
+    arguments:
+      col_name: Quarter
+      min_limit: 1
+      max_limit: 4
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Month
+
+- criticality: error
+  check:
+    function: is_in_range
+    arguments:
+      col_name: Month
+      min_limit: 1
+      max_limit: 12
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Day
+
+- criticality: error
+  check:
+    function: is_in_range
+    arguments:
+      col_name: Day
+      min_limit: 1
+      max_limit: 31
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Start_Of_Year
+
+- criticality: error
+  check:
+    function: is_valid_date
+    arguments:
+      col_name: Start_Of_Year
+      date_format: yyyy-MM-dd
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Start_Of_Quarter
+
+- criticality: error
+  check:
+    function: is_valid_date
+    arguments:
+      col_name: Start_Of_Quarter
+      date_format: yyyy-MM-dd
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Start_Of_Month
+
+- criticality: error
+  check:
+    function: is_valid_date
+    arguments:
+      col_name: Start_Of_Month
+      date_format: yyyy-MM-dd

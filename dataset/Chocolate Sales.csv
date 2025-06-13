@@ -1,0 +1,1095 @@
+Sales_Person_ID,Sales_Person,Country,Product_ID,Product,Date,Amount,Boxes_Shipped
+14,Jehu Rudeforth,UK,15,Mint Chip Choco,04-Jan-22,"$5,320 ",180
+24,Van Tuxwell,India,3,85% Dark Bars,01-Aug-22,"$7,896 ",94
+10,Gigi Bohling,India,18,Peanut Butter Cubes,07-Jul-22,"$4,501 ",91
+13,Jan Morforth,Australia,18,Peanut Butter Cubes,27-Apr-22,"$12,726 ",342
+14,Jehu Rudeforth,UK,18,Peanut Butter Cubes,24-Feb-22,"$13,685 ",184
+24,Van Tuxwell,India,20,Smooth Sliky Salty,06-Jun-22,"$5,376 ",38
+21,Oby Sorrel,UK,4,99% Dark & Pure,25-Jan-22,"$13,685 ",176
+11,Gunar Cockshoot,Australia,5,After Nines,24-Mar-22,"$3,080 ",73
+14,Jehu Rudeforth,New Zealand,1,50% Dark Bites,20-Apr-22,"$3,990 ",59
+4,Brien Boise,Australia,4,99% Dark & Pure,04-Jul-22,"$2,835 ",102
+22,Rafaelita Blaksland,UK,20,Smooth Sliky Salty,13-Jan-22,"$4,704 ",62
+2,Barr Faughny,USA,16,Orange Choco,10-Mar-22,"$3,703 ",11
+19,Mallorie Waber,Canada,11,Eclairs,13-Jan-22,"$1,442 ",286
+16,Karlen McCaffrey,New Zealand,10,Drinking Coco,28-Jul-22,$168 ,156
+20,Marney O'Breen,New Zealand,18,Peanut Butter Cubes,03-Aug-22,"$8,379 ",173
+3,Beverie Moffet,Australia,17,Organic Choco Syrup,26-Jan-22,"$6,790 ",356
+24,Van Tuxwell,Canada,17,Organic Choco Syrup,14-Feb-22,"$4,067 ",42
+23,Roddy Speechley,USA,20,Smooth Sliky Salty,05-Apr-22,"$3,017 ",140
+3,Beverie Moffet,Canada,14,Milk Bars,16-Feb-22,"$8,799 ",250
+7,Curtice Advani,UK,3,85% Dark Bars,08-Jun-22,"$1,085 ",172
+4,Brien Boise,Australia,11,Eclairs,27-Jun-22,"$6,888 ",88
+11,Gunar Cockshoot,USA,21,Spicy Special Slims,17-Feb-22,"$1,267 ",157
+20,Marney O'Breen,USA,5,After Nines,30-May-22,"$4,753 ",163
+12,Husein Augar,UK,10,Drinking Coco,14-Mar-22,"$3,003 ",113
+15,Kaine Padly,Australia,11,Eclairs,28-Feb-22,"$7,672 ",115
+16,Karlen McCaffrey,India,12,Fruit & Nut Bars,26-Jan-22,$168 ,321
+23,Roddy Speechley,Canada,21,Spicy Special Slims,09-Feb-22,"$1,652 ",186
+12,Husein Augar,USA,11,Eclairs,07-Jul-22,"$4,025 ",112
+8,Dennison Crosswaite,New Zealand,22,White Choc,05-Jul-22,"$9,492 ",151
+8,Dennison Crosswaite,New Zealand,13,Manuka Honey Choco,15-Jun-22,"$5,061 ",301
+24,Van Tuxwell,New Zealand,3,85% Dark Bars,24-May-22,"$1,722 ",121
+22,Rafaelita Blaksland,UK,4,99% Dark & Pure,29-Jun-22,"$12,446 ",150
+25,Wilone O'Kielt,Australia,13,Manuka Honey Choco,11-May-22,"$4,284 ",94
+16,Karlen McCaffrey,UK,6,Almond Choco,30-Jun-22,"$6,839 ",133
+1,Andria Kimpton,Canada,5,After Nines,11-May-22,"$2,163 ",70
+23,Roddy Speechley,USA,13,Manuka Honey Choco,22-Jul-22,"$9,583 ",315
+1,Andria Kimpton,UK,1,50% Dark Bites,24-Aug-22,"$2,653 ",314
+17,Kelci Walkden,New Zealand,5,After Nines,07-Jul-22,$147 ,72
+5,Camilla Castle,Australia,3,85% Dark Bars,19-May-22,"$3,654 ",14
+16,Karlen McCaffrey,India,13,Manuka Honey Choco,04-Jul-22,"$2,443 ",581
+17,Kelci Walkden,USA,5,After Nines,02-Jun-22,$938 ,16
+16,Karlen McCaffrey,USA,19,Raspberry Choco,15-Apr-22,"$14,749 ",354
+19,Mallorie Waber,Canada,9,Choco Coated Almonds,11-Jul-22,"$4,781 ",241
+1,Andria Kimpton,India,21,Spicy Special Slims,23-Feb-22,"$6,307 ",142
+18,Madelene Upcott,Canada,6,Almond Choco,22-Aug-22,"$7,602 ",102
+15,Kaine Padly,USA,18,Peanut Butter Cubes,16-Feb-22,"$6,790 ",188
+24,Van Tuxwell,USA,1,50% Dark Bites,13-Jan-22,"$9,737 ",160
+7,Curtice Advani,Australia,14,Milk Bars,14-Feb-22,"$6,979 ",18
+23,Roddy Speechley,India,11,Eclairs,10-Jun-22,"$4,382 ",303
+7,Curtice Advani,India,12,Fruit & Nut Bars,07-Jul-22,"$5,243 ",176
+7,Curtice Advani,Canada,6,Almond Choco,24-Mar-22,"$4,865 ",70
+4,Brien Boise,Australia,12,Fruit & Nut Bars,06-Jun-22,"$8,575 ",23
+9,Dotty Strutley,Australia,10,Drinking Coco,19-Jul-22,$91 ,135
+3,Beverie Moffet,USA,19,Raspberry Choco,19-Apr-22,"$14,798 ",83
+20,Marney O'Breen,India,3,85% Dark Bars,19-Jul-22,"$2,205 ",179
+14,Jehu Rudeforth,Canada,10,Drinking Coco,15-Jul-22,$441 ,24
+6,Ches Bonnell,New Zealand,21,Spicy Special Slims,14-Feb-22,"$3,556 ",18
+4,Brien Boise,Canada,4,99% Dark & Pure,18-May-22,"$16,793 ",416
+2,Barr Faughny,Australia,12,Fruit & Nut Bars,30-Jun-22,"$15,421 ",55
+1,Andria Kimpton,Australia,1,50% Dark Bites,02-Jun-22,"$4,438 ",227
+1,Andria Kimpton,Australia,10,Drinking Coco,28-Jun-22,"$1,603 ",48
+20,Marney O'Breen,Australia,17,Organic Choco Syrup,16-May-22,$273 ,174
+17,Kelci Walkden,Canada,7,Baker's Choco Chips,26-May-22,"$3,073 ",302
+16,Karlen McCaffrey,India,6,Almond Choco,06-Jul-22,"$6,090 ",149
+21,Oby Sorrel,India,4,99% Dark & Pure,27-May-22,"$10,255 ",11
+25,Wilone O'Kielt,Australia,8,Caramel Stuffed Bars,14-Apr-22,"$2,030 ",11
+24,Van Tuxwell,Australia,17,Organic Choco Syrup,10-Aug-22,"$19,453 ",14
+5,Camilla Castle,India,1,50% Dark Bites,04-Jul-22,"$9,275 ",411
+21,Oby Sorrel,India,17,Organic Choco Syrup,08-Jul-22,"$6,181 ",56
+13,Jan Morforth,USA,18,Peanut Butter Cubes,22-Jul-22,"$9,037 ",102
+10,Gigi Bohling,USA,9,Choco Coated Almonds,02-Mar-22,"$12,313 ",103
+10,Gigi Bohling,UK,6,Almond Choco,10-Jan-22,"$5,642 ",9
+14,Jehu Rudeforth,New Zealand,22,White Choc,11-Mar-22,"$2,800 ",241
+1,Andria Kimpton,New Zealand,18,Peanut Butter Cubes,20-Jun-22,$959 ,265
+24,Van Tuxwell,UK,17,Organic Choco Syrup,26-Aug-22,"$2,002 ",214
+23,Roddy Speechley,Canada,14,Milk Bars,13-Jul-22,$609 ,32
+5,Camilla Castle,USA,21,Spicy Special Slims,11-Feb-22,"$1,274 ",244
+20,Marney O'Breen,USA,16,Orange Choco,27-Jan-22,"$7,595 ",181
+24,Van Tuxwell,UK,4,99% Dark & Pure,31-Jan-22,"$4,725 ",137
+5,Camilla Castle,USA,22,White Choc,18-Aug-22,"$9,681 ",24
+1,Andria Kimpton,USA,19,Raspberry Choco,30-Jun-22,"$14,504 ",21
+9,Dotty Strutley,Australia,12,Fruit & Nut Bars,23-Aug-22,$280 ,311
+4,Brien Boise,New Zealand,15,Mint Chip Choco,01-Aug-22,$63 ,181
+23,Roddy Speechley,New Zealand,5,After Nines,25-May-22,"$8,001 ",10
+23,Roddy Speechley,Canada,17,Organic Choco Syrup,10-Jan-22,"$4,032 ",82
+8,Dennison Crosswaite,Australia,2,70% Dark Bites,07-Feb-22,"$5,859 ",108
+16,Karlen McCaffrey,USA,16,Orange Choco,12-May-22,"$11,095 ",401
+18,Madelene Upcott,Australia,21,Spicy Special Slims,07-Mar-22,"$7,182 ",408
+8,Dennison Crosswaite,Australia,3,85% Dark Bars,05-Apr-22,"$6,881 ",420
+1,Andria Kimpton,Canada,8,Caramel Stuffed Bars,03-Jan-22,"$7,154 ",348
+8,Dennison Crosswaite,UK,11,Eclairs,24-Mar-22,"$6,188 ",270
+18,Madelene Upcott,India,19,Raspberry Choco,07-Jul-22,"$4,221 ",9
+24,Van Tuxwell,USA,5,After Nines,26-Jul-22,$630 ,264
+25,Wilone O'Kielt,Australia,17,Organic Choco Syrup,07-Jul-22,"$1,743 ",111
+16,Karlen McCaffrey,Canada,1,50% Dark Bites,15-Jul-22,"$2,919 ",65
+23,Roddy Speechley,New Zealand,16,Orange Choco,01-Apr-22,$49 ,97
+3,Beverie Moffet,Australia,11,Eclairs,20-Jun-22,"$1,827 ",6
+17,Kelci Walkden,UK,12,Fruit & Nut Bars,29-Jun-22,"$13,006 ",482
+20,Marney O'Breen,USA,1,50% Dark Bites,15-Jun-22,"$1,064 ",106
+12,Husein Augar,USA,5,After Nines,08-Apr-22,"$11,571 ",180
+8,Dennison Crosswaite,Australia,19,Raspberry Choco,14-Mar-22,"$5,740 ",31
+1,Andria Kimpton,USA,12,Fruit & Nut Bars,15-Jul-22,"$1,456 ",359
+17,Kelci Walkden,India,11,Eclairs,19-Apr-22,"$5,334 ",80
+20,Marney O'Breen,USA,4,99% Dark & Pure,28-Mar-22,"$4,151 ",296
+4,Brien Boise,Canada,21,Spicy Special Slims,04-Mar-22,"$8,106 ",101
+16,Karlen McCaffrey,New Zealand,2,70% Dark Bites,02-Aug-22,$126 ,40
+12,Husein Augar,UK,21,Spicy Special Slims,25-Aug-22,"$4,697 ",42
+20,Marney O'Breen,USA,6,Almond Choco,25-Feb-22,"$7,798 ",167
+17,Kelci Walkden,India,16,Orange Choco,07-Jun-22,"$9,408 ",138
+13,Jan Morforth,India,21,Spicy Special Slims,12-Apr-22,"$1,939 ",520
+6,Ches Bonnell,India,21,Spicy Special Slims,06-Jul-22,"$10,906 ",94
+17,Kelci Walkden,UK,20,Smooth Sliky Salty,19-Jan-22,"$5,929 ",175
+18,Madelene Upcott,Australia,12,Fruit & Nut Bars,05-Jan-22,"$5,579 ",92
+18,Madelene Upcott,Canada,2,70% Dark Bites,24-Jan-22,"$10,927 ",141
+25,Wilone O'Kielt,Australia,10,Drinking Coco,06-Apr-22,$623 ,283
+11,Gunar Cockshoot,Australia,12,Fruit & Nut Bars,15-Jun-22,"$6,013 ",21
+10,Gigi Bohling,Canada,7,Baker's Choco Chips,28-Jan-22,"$1,505 ",47
+17,Kelci Walkden,India,8,Caramel Stuffed Bars,16-Mar-22,$476 ,125
+22,Rafaelita Blaksland,Australia,10,Drinking Coco,21-Feb-22,"$11,550 ",396
+17,Kelci Walkden,USA,13,Manuka Honey Choco,16-Feb-22,"$17,318 ",87
+14,Jehu Rudeforth,Canada,21,Spicy Special Slims,13-Jan-22,"$1,848 ",27
+17,Kelci Walkden,Australia,11,Eclairs,23-Mar-22,"$7,273 ",547
+7,Curtice Advani,Canada,21,Spicy Special Slims,16-Jun-22,$854 ,118
+21,Oby Sorrel,India,19,Raspberry Choco,14-Apr-22,"$6,832 ",46
+17,Kelci Walkden,UK,11,Eclairs,25-Jan-22,"$4,606 ",57
+13,Jan Morforth,India,6,Almond Choco,11-Mar-22,"$4,466 ",22
+9,Dotty Strutley,UK,6,Almond Choco,28-Jul-22,"$16,114 ",96
+20,Marney O'Breen,New Zealand,5,After Nines,09-Mar-22,"$1,561 ",44
+12,Husein Augar,Australia,16,Orange Choco,28-Jun-22,"$8,897 ",188
+20,Marney O'Breen,Australia,14,Milk Bars,28-Jul-22,"$2,464 ",387
+17,Kelci Walkden,Canada,4,99% Dark & Pure,15-Aug-22,"$4,830 ",50
+15,Kaine Padly,Australia,13,Manuka Honey Choco,12-Jan-22,"$2,765 ",264
+3,Beverie Moffet,New Zealand,22,White Choc,24-Mar-22,"$7,126 ",7
+24,Van Tuxwell,UK,14,Milk Bars,25-Jul-22,"$4,263 ",90
+21,Oby Sorrel,Canada,4,99% Dark & Pure,01-Aug-22,"$3,605 ",403
+24,Van Tuxwell,India,17,Organic Choco Syrup,16-May-22,"$19,929 ",174
+23,Roddy Speechley,India,20,Smooth Sliky Salty,10-Aug-22,"$5,103 ",140
+13,Jan Morforth,India,11,Eclairs,05-Jan-22,"$2,541 ",27
+6,Ches Bonnell,UK,20,Smooth Sliky Salty,11-Jul-22,"$5,663 ",110
+25,Wilone O'Kielt,USA,5,After Nines,25-Apr-22,$392 ,30
+10,Gigi Bohling,New Zealand,12,Fruit & Nut Bars,04-Apr-22,"$10,976 ",121
+2,Barr Faughny,USA,19,Raspberry Choco,12-Apr-22,"$9,282 ",101
+25,Wilone O'Kielt,New Zealand,3,85% Dark Bars,02-Aug-22,"$1,827 ",117
+10,Gigi Bohling,New Zealand,13,Manuka Honey Choco,28-Jun-22,"$8,267 ",272
+6,Ches Bonnell,Australia,11,Eclairs,05-Jul-22,"$4,116 ",128
+22,Rafaelita Blaksland,New Zealand,9,Choco Coated Almonds,07-Jun-22,"$2,093 ",45
+4,Brien Boise,New Zealand,20,Smooth Sliky Salty,18-Jan-22,"$1,015 ",27
+4,Brien Boise,Australia,7,Baker's Choco Chips,04-Jan-22,"$12,516 ",212
+8,Dennison Crosswaite,Australia,4,99% Dark & Pure,31-Jan-22,"$2,758 ",18
+17,Kelci Walkden,India,6,Almond Choco,14-Mar-22,"$3,297 ",149
+5,Camilla Castle,Australia,2,70% Dark Bites,29-Apr-22,"$6,048 ",477
+21,Oby Sorrel,India,20,Smooth Sliky Salty,07-Feb-22,"$10,101 ",108
+15,Kaine Padly,UK,17,Organic Choco Syrup,31-Mar-22,"$2,282 ",178
+20,Marney O'Breen,India,8,Caramel Stuffed Bars,16-Mar-22,"$4,361 ",81
+16,Karlen McCaffrey,UK,11,Eclairs,25-Jan-22,"$7,798 ",196
+24,Van Tuxwell,India,7,Baker's Choco Chips,20-Jun-22,"$3,052 ",447
+10,Gigi Bohling,UK,5,After Nines,29-Mar-22,"$8,029 ",175
+7,Curtice Advani,Australia,16,Orange Choco,12-Jul-22,$854 ,136
+14,Jehu Rudeforth,Canada,20,Smooth Sliky Salty,11-Jul-22,"$5,460 ",138
+16,Karlen McCaffrey,Canada,20,Smooth Sliky Salty,19-Jan-22,"$3,017 ",184
+1,Andria Kimpton,USA,3,85% Dark Bars,05-Apr-22,"$8,911 ",82
+14,Jehu Rudeforth,Canada,14,Milk Bars,21-Feb-22,"$7,203 ",12
+22,Rafaelita Blaksland,New Zealand,8,Caramel Stuffed Bars,20-May-22,"$13,083 ",14
+19,Mallorie Waber,Australia,14,Milk Bars,29-Jul-22,"$2,779 ",104
+2,Barr Faughny,USA,12,Fruit & Nut Bars,28-Jan-22,"$9,058 ",46
+20,Marney O'Breen,UK,8,Caramel Stuffed Bars,19-Jul-22,"$3,549 ",112
+19,Mallorie Waber,New Zealand,13,Manuka Honey Choco,13-Apr-22,"$9,436 ",11
+23,Roddy Speechley,India,18,Peanut Butter Cubes,11-Feb-22,"$10,283 ",21
+23,Roddy Speechley,New Zealand,14,Milk Bars,02-Mar-22,"$5,446 ",116
+6,Ches Bonnell,Australia,22,White Choc,02-Mar-22,"$1,043 ",202
+24,Van Tuxwell,USA,4,99% Dark & Pure,28-Jul-22,"$12,586 ",6
+17,Kelci Walkden,India,5,After Nines,07-Jan-22,"$1,687 ",520
+4,Brien Boise,UK,22,White Choc,12-Apr-22,"$5,299 ",167
+24,Van Tuxwell,Canada,6,Almond Choco,27-Jun-22,"$3,213 ",72
+14,Jehu Rudeforth,Australia,1,50% Dark Bites,14-Jan-22,"$5,194 ",418
+16,Karlen McCaffrey,UK,7,Baker's Choco Chips,07-Feb-22,"$4,753 ",389
+14,Jehu Rudeforth,Australia,16,Orange Choco,23-Mar-22,"$13,706 ",26
+20,Marney O'Breen,India,18,Peanut Butter Cubes,10-Jan-22,"$6,489 ",146
+21,Oby Sorrel,UK,9,Choco Coated Almonds,17-Mar-22,"$9,324 ",41
+10,Gigi Bohling,USA,21,Spicy Special Slims,21-Jan-22,"$10,829 ",54
+2,Barr Faughny,Australia,22,White Choc,04-Jul-22,"$8,113 ",370
+15,Kaine Padly,Canada,18,Peanut Butter Cubes,04-Jul-22,"$3,269 ",176
+9,Dotty Strutley,USA,13,Manuka Honey Choco,10-Aug-22,$273 ,210
+8,Dennison Crosswaite,Australia,1,50% Dark Bites,01-Apr-22,"$7,287 ",12
+10,Gigi Bohling,India,19,Raspberry Choco,22-Feb-22,"$2,583 ",159
+5,Camilla Castle,UK,22,White Choc,03-Jan-22,"$9,982 ",187
+16,Karlen McCaffrey,India,10,Drinking Coco,31-May-22,"$4,795 ",233
+9,Dotty Strutley,UK,4,99% Dark & Pure,03-Jan-22,"$9,310 ",282
+12,Husein Augar,New Zealand,8,Caramel Stuffed Bars,27-Jan-22,$497 ,475
+2,Barr Faughny,UK,1,50% Dark Bites,28-Jan-22,$581 ,65
+7,Curtice Advani,Australia,17,Organic Choco Syrup,28-Jun-22,"$3,472 ",311
+12,Husein Augar,UK,9,Choco Coated Almonds,02-Mar-22,"$4,333 ",43
+25,Wilone O'Kielt,Australia,5,After Nines,27-May-22,"$3,325 ",26
+8,Dennison Crosswaite,USA,6,Almond Choco,30-Jun-22,"$11,718 ",84
+2,Barr Faughny,Canada,18,Peanut Butter Cubes,07-Jun-22,"$2,100 ",78
+15,Kaine Padly,USA,2,70% Dark Bites,12-May-22,"$4,018 ",100
+2,Barr Faughny,New Zealand,19,Raspberry Choco,29-Jul-22,"$6,468 ",66
+8,Dennison Crosswaite,UK,22,White Choc,03-Aug-22,"$7,238 ",265
+2,Barr Faughny,India,7,Baker's Choco Chips,18-Aug-22,"$6,454 ",141
+24,Van Tuxwell,New Zealand,20,Smooth Sliky Salty,14-Jun-22,"$3,115 ",42
+3,Beverie Moffet,UK,22,White Choc,30-Jun-22,"$6,475 ",76
+5,Camilla Castle,New Zealand,15,Mint Chip Choco,13-Jun-22,"$1,162 ",190
+6,Ches Bonnell,UK,16,Orange Choco,27-Apr-22,"$14,238 ",54
+13,Jan Morforth,Australia,22,White Choc,27-Jul-22,"$3,472 ",32
+19,Mallorie Waber,Canada,3,85% Dark Bars,20-Apr-22,"$1,428 ",424
+22,Rafaelita Blaksland,India,21,Spicy Special Slims,04-Jan-22,"$8,064 ",134
+6,Ches Bonnell,Australia,15,Mint Chip Choco,21-Feb-22,"$9,660 ",92
+16,Karlen McCaffrey,Australia,22,White Choc,05-Jan-22,"$7,357 ",48
+3,Beverie Moffet,India,10,Drinking Coco,15-Jul-22,"$6,055 ",46
+4,Brien Boise,Australia,9,Choco Coated Almonds,25-May-22,"$5,124 ",62
+16,Karlen McCaffrey,Canada,11,Eclairs,20-Apr-22,"$3,479 ",358
+10,Gigi Bohling,USA,4,99% Dark & Pure,02-Jun-22,$784 ,249
+20,Marney O'Breen,UK,20,Smooth Sliky Salty,13-May-22,"$18,991 ",88
+3,Beverie Moffet,New Zealand,7,Baker's Choco Chips,03-Aug-22,"$1,372 ",144
+3,Beverie Moffet,Australia,14,Milk Bars,25-May-22,$735 ,390
+24,Van Tuxwell,UK,19,Raspberry Choco,16-Mar-22,"$6,538 ",79
+13,Jan Morforth,Australia,16,Orange Choco,04-Jul-22,"$3,199 ",122
+14,Jehu Rudeforth,India,1,50% Dark Bites,05-Jul-22,"$3,472 ",135
+18,Madelene Upcott,USA,5,After Nines,15-Mar-22,"$4,571 ",430
+2,Barr Faughny,UK,19,Raspberry Choco,22-Aug-22,"$5,481 ",69
+6,Ches Bonnell,Australia,2,70% Dark Bites,12-Jan-22,"$3,136 ",125
+20,Marney O'Breen,UK,7,Baker's Choco Chips,10-Jun-22,$252 ,154
+15,Kaine Padly,Australia,18,Peanut Butter Cubes,25-Mar-22,"$5,460 ",286
+22,Rafaelita Blaksland,India,6,Almond Choco,27-Jul-22,"$3,395 ",99
+12,Husein Augar,UK,8,Caramel Stuffed Bars,15-Apr-22,"$14,938 ",433
+23,Roddy Speechley,India,16,Orange Choco,27-Jun-22,"$4,053 ",19
+14,Jehu Rudeforth,UK,2,70% Dark Bites,14-Apr-22,"$5,565 ",258
+12,Husein Augar,Australia,13,Manuka Honey Choco,15-Mar-22,"$7,161 ",92
+18,Madelene Upcott,USA,11,Eclairs,18-Mar-22,"$8,883 ",200
+4,Brien Boise,India,11,Eclairs,29-Apr-22,"$1,351 ",61
+19,Mallorie Waber,New Zealand,22,White Choc,25-Feb-22,"$3,171 ",246
+12,Husein Augar,USA,14,Milk Bars,02-Mar-22,$854 ,56
+24,Van Tuxwell,Australia,14,Milk Bars,20-Jun-22,"$7,910 ",87
+3,Beverie Moffet,Canada,22,White Choc,15-Jul-22,"$9,275 ",173
+9,Dotty Strutley,Australia,1,50% Dark Bites,12-May-22,"$3,108 ",252
+19,Mallorie Waber,New Zealand,17,Organic Choco Syrup,01-Jul-22,"$5,075 ",256
+12,Husein Augar,USA,3,85% Dark Bars,08-Aug-22,$378 ,54
+18,Madelene Upcott,Australia,1,50% Dark Bites,25-Jul-22,"$7,350 ",6
+25,Wilone O'Kielt,UK,10,Drinking Coco,18-May-22,"$3,388 ",55
+5,Camilla Castle,India,18,Peanut Butter Cubes,15-Jul-22,"$11,837 ",277
+7,Curtice Advani,India,2,70% Dark Bites,05-Jul-22,"$2,282 ",44
+19,Mallorie Waber,USA,13,Manuka Honey Choco,04-Jul-22,"$5,425 ",96
+9,Dotty Strutley,UK,2,70% Dark Bites,20-Jun-22,"$1,267 ",216
+11,Gunar Cockshoot,Australia,6,Almond Choco,25-Jan-22,"$3,752 ",424
+15,Kaine Padly,New Zealand,21,Spicy Special Slims,01-Jul-22,"$7,728 ",37
+10,Gigi Bohling,USA,1,50% Dark Bites,13-Apr-22,"$2,296 ",59
+3,Beverie Moffet,UK,20,Smooth Sliky Salty,04-May-22,"$4,403 ",76
+3,Beverie Moffet,Australia,7,Baker's Choco Chips,04-Aug-22,"$3,192 ",109
+3,Beverie Moffet,India,2,70% Dark Bites,01-Jun-22,$448 ,146
+14,Jehu Rudeforth,UK,9,Choco Coated Almonds,22-Apr-22,"$4,270 ",185
+15,Kaine Padly,USA,1,50% Dark Bites,03-Aug-22,$70 ,27
+6,Ches Bonnell,USA,16,Orange Choco,10-Jun-22,"$1,743 ",69
+11,Gunar Cockshoot,UK,13,Manuka Honey Choco,27-Jun-22,"$6,762 ",46
+20,Marney O'Breen,Australia,20,Smooth Sliky Salty,03-Jan-22,"$3,745 ",170
+20,Marney O'Breen,India,5,After Nines,11-Jul-22,"$2,639 ",179
+6,Ches Bonnell,New Zealand,14,Milk Bars,17-Aug-22,"$4,389 ",126
+22,Rafaelita Blaksland,USA,12,Fruit & Nut Bars,18-Jan-22,"$2,604 ",65
+6,Ches Bonnell,India,17,Organic Choco Syrup,08-Mar-22,"$16,569 ",99
+19,Mallorie Waber,Australia,16,Orange Choco,07-Mar-22,"$14,658 ",275
+12,Husein Augar,India,2,70% Dark Bites,09-May-22,"$6,454 ",157
+2,Barr Faughny,New Zealand,3,85% Dark Bars,23-May-22,"$2,100 ",157
+18,Madelene Upcott,UK,8,Caramel Stuffed Bars,15-Apr-22,$161 ,145
+10,Gigi Bohling,Australia,10,Drinking Coco,27-Jul-22,"$2,807 ",139
+20,Marney O'Breen,Canada,9,Choco Coated Almonds,22-Aug-22,"$2,639 ",406
+6,Ches Bonnell,USA,2,70% Dark Bites,11-May-22,"$4,571 ",122
+18,Madelene Upcott,India,17,Organic Choco Syrup,26-Jan-22,"$4,781 ",38
+2,Barr Faughny,USA,1,50% Dark Bites,14-Apr-22,"$13,034 ",117
+8,Dennison Crosswaite,New Zealand,15,Mint Chip Choco,05-Apr-22,"$6,454 ",417
+20,Marney O'Breen,New Zealand,20,Smooth Sliky Salty,14-Jun-22,"$8,484 ",57
+4,Brien Boise,Canada,6,Almond Choco,13-Apr-22,"$4,781 ",125
+3,Beverie Moffet,Australia,22,White Choc,27-Jun-22,"$2,240 ",166
+9,Dotty Strutley,Australia,11,Eclairs,26-Jan-22,"$6,979 ",3
+2,Barr Faughny,UK,22,White Choc,05-Jul-22,"$1,652 ",72
+3,Beverie Moffet,Canada,7,Baker's Choco Chips,11-Jan-22,"$13,447 ",95
+17,Kelci Walkden,USA,22,White Choc,07-Mar-22,"$9,422 ",22
+15,Kaine Padly,Canada,1,50% Dark Bites,04-Mar-22,"$8,687 ",100
+16,Karlen McCaffrey,Canada,17,Organic Choco Syrup,15-Jul-22,"$2,415 ",312
+15,Kaine Padly,UK,18,Peanut Butter Cubes,11-May-22,"$6,272 ",86
+16,Karlen McCaffrey,USA,14,Milk Bars,27-Jan-22,"$4,389 ",7
+16,Karlen McCaffrey,India,16,Orange Choco,27-Jun-22,"$3,122 ",149
+6,Ches Bonnell,India,20,Smooth Sliky Salty,03-Aug-22,"$8,043 ",18
+25,Wilone O'Kielt,New Zealand,15,Mint Chip Choco,19-Aug-22,"$11,662 ",242
+25,Wilone O'Kielt,Australia,12,Fruit & Nut Bars,15-Jun-22,$392 ,102
+8,Dennison Crosswaite,UK,18,Peanut Butter Cubes,07-Feb-22,"$8,925 ",158
+16,Karlen McCaffrey,Australia,6,Almond Choco,08-Jul-22,"$7,294 ",128
+8,Dennison Crosswaite,India,14,Milk Bars,21-Apr-22,"$1,526 ",96
+6,Ches Bonnell,UK,15,Mint Chip Choco,08-Apr-22,"$2,688 ",209
+12,Husein Augar,Australia,1,50% Dark Bites,19-Aug-22,"$14,889 ",52
+13,Jan Morforth,India,12,Fruit & Nut Bars,04-May-22,"$2,912 ",55
+19,Mallorie Waber,USA,3,85% Dark Bars,11-May-22,"$2,632 ",108
+19,Mallorie Waber,USA,11,Eclairs,22-Mar-22,"$6,328 ",51
+8,Dennison Crosswaite,Canada,21,Spicy Special Slims,10-Aug-22,"$2,527 ",216
+8,Dennison Crosswaite,USA,12,Fruit & Nut Bars,04-May-22,"$1,414 ",318
+17,Kelci Walkden,USA,4,99% Dark & Pure,18-Aug-22,"$7,714 ",238
+9,Dotty Strutley,Canada,19,Raspberry Choco,03-Aug-22,"$4,347 ",238
+20,Marney O'Breen,New Zealand,14,Milk Bars,14-Jan-22,"$7,490 ",315
+18,Madelene Upcott,Australia,9,Choco Coated Almonds,08-Apr-22,"$2,058 ",72
+17,Kelci Walkden,UK,16,Orange Choco,01-Aug-22,"$3,640 ",3
+8,Dennison Crosswaite,Canada,11,Eclairs,15-Mar-22,$455 ,45
+16,Karlen McCaffrey,India,15,Mint Chip Choco,15-Jul-22,"$10,990 ",184
+2,Barr Faughny,New Zealand,6,Almond Choco,13-Jan-22,"$5,558 ",127
+19,Mallorie Waber,Australia,3,85% Dark Bars,26-Aug-22,"$2,541 ",53
+6,Ches Bonnell,Canada,11,Eclairs,10-Jan-22,"$1,876 ",172
+10,Gigi Bohling,Australia,22,White Choc,11-May-22,"$5,523 ",87
+3,Beverie Moffet,New Zealand,3,85% Dark Bars,30-Aug-22,"$11,200 ",22
+15,Kaine Padly,USA,8,Caramel Stuffed Bars,21-Jul-22,"$5,593 ",122
+19,Mallorie Waber,Australia,6,Almond Choco,01-Aug-22,"$7,882 ",125
+4,Brien Boise,Canada,3,85% Dark Bars,17-Feb-22,"$10,241 ",259
+4,Brien Boise,Australia,10,Drinking Coco,27-Jul-22,"$6,832 ",156
+9,Dotty Strutley,USA,16,Orange Choco,23-Feb-22,"$1,379 ",107
+22,Rafaelita Blaksland,Australia,1,50% Dark Bites,22-Mar-22,"$3,010 ",40
+8,Dennison Crosswaite,India,4,99% Dark & Pure,23-Jun-22,"$6,888 ",311
+7,Curtice Advani,UK,22,White Choc,01-Feb-22,"$1,540 ",73
+17,Kelci Walkden,Australia,5,After Nines,02-Mar-22,"$6,916 ",288
+10,Gigi Bohling,UK,12,Fruit & Nut Bars,06-Apr-22,"$1,232 ",86
+11,Gunar Cockshoot,Australia,19,Raspberry Choco,17-Mar-22,$602 ,72
+7,Curtice Advani,UK,12,Fruit & Nut Bars,24-Jun-22,"$10,927 ",136
+2,Barr Faughny,Canada,1,50% Dark Bites,19-Jul-22,"$10,185 ",303
+7,Curtice Advani,USA,21,Spicy Special Slims,11-Jul-22,"$1,603 ",264
+4,Brien Boise,India,6,Almond Choco,13-Jan-22,"$2,170 ",218
+21,Oby Sorrel,New Zealand,20,Smooth Sliky Salty,07-Jul-22,"$8,673 ",60
+13,Jan Morforth,India,3,85% Dark Bars,25-May-22,"$4,760 ",418
+20,Marney O'Breen,India,12,Fruit & Nut Bars,13-Apr-22,"$4,753 ",151
+1,Andria Kimpton,New Zealand,1,50% Dark Bites,02-Mar-22,"$3,374 ",202
+11,Gunar Cockshoot,Canada,19,Raspberry Choco,23-Jun-22,"$2,058 ",126
+17,Kelci Walkden,USA,10,Drinking Coco,26-Jul-22,"$6,454 ",160
+24,Van Tuxwell,Canada,22,White Choc,22-Mar-22,$420 ,3
+22,Rafaelita Blaksland,USA,7,Baker's Choco Chips,09-Jun-22,"$2,863 ",58
+24,Van Tuxwell,Australia,8,Caramel Stuffed Bars,17-May-22,"$5,936 ",59
+6,Ches Bonnell,New Zealand,18,Peanut Butter Cubes,04-Mar-22,$889 ,273
+17,Kelci Walkden,Canada,14,Milk Bars,07-Jul-22,"$16,016 ",28
+8,Dennison Crosswaite,Canada,9,Choco Coated Almonds,13-Jan-22,"$10,479 ",118
+7,Curtice Advani,Australia,6,Almond Choco,13-Jul-22,"$2,912 ",75
+18,Madelene Upcott,Australia,3,85% Dark Bars,16-Jun-22,"$1,575 ",329
+10,Gigi Bohling,UK,1,50% Dark Bites,18-Jul-22,"$8,197 ",69
+6,Ches Bonnell,UK,13,Manuka Honey Choco,30-May-22,"$4,221 ",395
+10,Gigi Bohling,UK,2,70% Dark Bites,21-Jun-22,$840 ,81
+14,Jehu Rudeforth,Australia,18,Peanut Butter Cubes,24-Jun-22,"$5,691 ",38
+20,Marney O'Breen,India,11,Eclairs,13-Jan-22,"$3,472 ",96
+7,Curtice Advani,Canada,12,Fruit & Nut Bars,04-Apr-22,"$4,193 ",195
+15,Kaine Padly,UK,20,Smooth Sliky Salty,08-Jun-22,"$9,016 ",554
+16,Karlen McCaffrey,Canada,21,Spicy Special Slims,02-Aug-22,"$6,328 ",47
+17,Kelci Walkden,USA,17,Organic Choco Syrup,21-Jul-22,"$9,870 ",152
+7,Curtice Advani,India,21,Spicy Special Slims,20-Jun-22,$161 ,134
+23,Roddy Speechley,India,5,After Nines,22-Jun-22,"$2,576 ",112
+5,Camilla Castle,Australia,8,Caramel Stuffed Bars,02-May-22,"$3,178 ",16
+7,Curtice Advani,Australia,4,99% Dark & Pure,07-Jan-22,"$4,676 ",84
+19,Mallorie Waber,UK,1,50% Dark Bites,21-Feb-22,"$5,502 ",99
+6,Ches Bonnell,Canada,7,Baker's Choco Chips,21-Mar-22,"$7,462 ",371
+24,Van Tuxwell,UK,10,Drinking Coco,04-Apr-22,"$5,803 ",136
+11,Gunar Cockshoot,Canada,12,Fruit & Nut Bars,24-Mar-22,"$13,888 ",203
+11,Gunar Cockshoot,New Zealand,21,Spicy Special Slims,28-Jun-22,"$6,867 ",183
+11,Gunar Cockshoot,Australia,10,Drinking Coco,14-Jan-22,"$2,317 ",195
+16,Karlen McCaffrey,New Zealand,12,Fruit & Nut Bars,07-Feb-22,"$1,218 ",135
+8,Dennison Crosswaite,New Zealand,10,Drinking Coco,11-Jan-22,"$4,109 ",197
+14,Jehu Rudeforth,India,4,99% Dark & Pure,25-Feb-22,"$1,953 ",242
+9,Dotty Strutley,Australia,15,Mint Chip Choco,01-Aug-22,"$6,790 ",25
+23,Roddy Speechley,Australia,15,Mint Chip Choco,05-May-22,"$6,797 ",252
+18,Madelene Upcott,New Zealand,19,Raspberry Choco,18-May-22,"$9,226 ",415
+9,Dotty Strutley,New Zealand,9,Choco Coated Almonds,04-Jan-22,"$5,733 ",348
+23,Roddy Speechley,New Zealand,1,50% Dark Bites,09-May-22,"$4,312 ",211
+22,Rafaelita Blaksland,India,20,Smooth Sliky Salty,06-May-22,"$1,638 ",81
+12,Husein Augar,UK,22,White Choc,13-Jan-22,"$10,815 ",145
+23,Roddy Speechley,Australia,6,Almond Choco,24-Jun-22,"$4,466 ",74
+24,Van Tuxwell,USA,8,Caramel Stuffed Bars,14-Feb-22,$987 ,21
+5,Camilla Castle,Australia,4,99% Dark & Pure,18-Jan-22,"$4,669 ",101
+15,Kaine Padly,India,14,Milk Bars,02-May-22,"$2,905 ",91
+6,Ches Bonnell,Australia,20,Smooth Sliky Salty,16-May-22,"$7,490 ",54
+19,Mallorie Waber,USA,6,Almond Choco,28-Jan-22,"$6,986 ",368
+15,Kaine Padly,Canada,4,99% Dark & Pure,24-Jun-22,"$1,288 ",409
+21,Oby Sorrel,UK,5,After Nines,18-Jul-22,"$2,345 ",104
+11,Gunar Cockshoot,UK,11,Eclairs,13-Apr-22,"$3,619 ",164
+9,Dotty Strutley,USA,8,Caramel Stuffed Bars,15-Apr-22,"$16,982 ",76
+13,Jan Morforth,India,18,Peanut Butter Cubes,04-Jan-22,"$8,092 ",178
+12,Husein Augar,Australia,11,Eclairs,04-Jul-22,"$6,993 ",31
+3,Beverie Moffet,USA,20,Smooth Sliky Salty,24-Mar-22,"$2,317 ",352
+5,Camilla Castle,Australia,13,Manuka Honey Choco,17-Mar-22,$637 ,169
+21,Oby Sorrel,Australia,6,Almond Choco,15-Feb-22,"$6,034 ",223
+13,Jan Morforth,USA,16,Orange Choco,29-Jun-22,$980 ,146
+10,Gigi Bohling,USA,12,Fruit & Nut Bars,24-May-22,"$2,821 ",112
+19,Mallorie Waber,UK,14,Milk Bars,10-Jan-22,"$3,563 ",284
+7,Curtice Advani,USA,19,Raspberry Choco,15-Mar-22,"$2,996 ",139
+20,Marney O'Breen,Canada,14,Milk Bars,08-Feb-22,"$2,436 ",309
+4,Brien Boise,India,8,Caramel Stuffed Bars,25-Feb-22,"$1,540 ",100
+11,Gunar Cockshoot,USA,11,Eclairs,03-May-22,"$6,916 ",42
+23,Roddy Speechley,USA,12,Fruit & Nut Bars,14-Jun-22,"$5,509 ",24
+11,Gunar Cockshoot,India,1,50% Dark Bites,09-Aug-22,"$12,992 ",83
+25,Wilone O'Kielt,New Zealand,13,Manuka Honey Choco,11-Jul-22,"$3,724 ",234
+15,Kaine Padly,UK,13,Manuka Honey Choco,14-Jan-22,"$7,133 ",118
+24,Van Tuxwell,Canada,13,Manuka Honey Choco,24-Feb-22,"$8,617 ",46
+25,Wilone O'Kielt,New Zealand,6,Almond Choco,15-Mar-22,"$9,198 ",144
+21,Oby Sorrel,New Zealand,7,Baker's Choco Chips,25-Apr-22,"$11,823 ",47
+8,Dennison Crosswaite,Australia,17,Organic Choco Syrup,10-May-22,"$5,775 ",41
+20,Marney O'Breen,Australia,21,Spicy Special Slims,23-Jun-22,"$13,125 ",275
+3,Beverie Moffet,Canada,20,Smooth Sliky Salty,28-Feb-22,"$14,287 ",370
+4,Brien Boise,USA,17,Organic Choco Syrup,25-May-22,"$16,233 ",138
+23,Roddy Speechley,New Zealand,7,Baker's Choco Chips,22-Feb-22,"$5,313 ",215
+24,Van Tuxwell,UK,3,85% Dark Bars,11-Jul-22,"$3,577 ",134
+20,Marney O'Breen,Canada,21,Spicy Special Slims,03-Jan-22,"$3,528 ",336
+22,Rafaelita Blaksland,New Zealand,2,70% Dark Bites,24-Aug-22,$679 ,280
+3,Beverie Moffet,USA,1,50% Dark Bites,28-Jul-22,"$2,450 ",352
+4,Brien Boise,USA,15,Mint Chip Choco,25-May-22,"$10,577 ",150
+16,Karlen McCaffrey,New Zealand,11,Eclairs,06-May-22,"$2,597 ",177
+2,Barr Faughny,India,10,Drinking Coco,28-Jan-22,"$2,219 ",142
+20,Marney O'Breen,UK,16,Orange Choco,06-Jun-22,"$11,319 ",12
+4,Brien Boise,New Zealand,7,Baker's Choco Chips,12-Jul-22,"$5,978 ",24
+6,Ches Bonnell,Canada,21,Spicy Special Slims,05-Aug-22,"$5,327 ",183
+4,Brien Boise,USA,16,Orange Choco,28-Jan-22,"$6,020 ",147
+15,Kaine Padly,India,21,Spicy Special Slims,31-Aug-22,"$5,614 ",137
+19,Mallorie Waber,USA,1,50% Dark Bites,19-Apr-22,"$1,736 ",13
+19,Mallorie Waber,UK,15,Mint Chip Choco,29-Jun-22,"$6,384 ",2
+3,Beverie Moffet,India,9,Choco Coated Almonds,24-Feb-22,"$3,577 ",261
+18,Madelene Upcott,UK,20,Smooth Sliky Salty,04-Mar-22,"$14,539 ",84
+10,Gigi Bohling,India,11,Eclairs,21-Jun-22,"$3,493 ",68
+22,Rafaelita Blaksland,Australia,17,Organic Choco Syrup,26-Jan-22,$994 ,105
+21,Oby Sorrel,New Zealand,22,White Choc,10-Jun-22,"$4,361 ",40
+1,Andria Kimpton,UK,10,Drinking Coco,23-May-22,"$1,554 ",65
+17,Kelci Walkden,India,14,Milk Bars,15-Apr-22,$966 ,107
+16,Karlen McCaffrey,New Zealand,8,Caramel Stuffed Bars,31-Jan-22,"$5,334 ",227
+1,Andria Kimpton,New Zealand,17,Organic Choco Syrup,04-Mar-22,"$4,935 ",39
+2,Barr Faughny,New Zealand,5,After Nines,19-Apr-22,"$10,024 ",84
+3,Beverie Moffet,UK,6,Almond Choco,16-May-22,"$2,506 ",100
+21,Oby Sorrel,Australia,19,Raspberry Choco,17-Feb-22,"$1,043 ",120
+8,Dennison Crosswaite,USA,19,Raspberry Choco,18-Jan-22,"$6,524 ",257
+23,Roddy Speechley,Canada,16,Orange Choco,09-Feb-22,"$8,148 ",85
+19,Mallorie Waber,Canada,16,Orange Choco,23-Mar-22,"$3,577 ",178
+18,Madelene Upcott,New Zealand,8,Caramel Stuffed Bars,01-Feb-22,"$3,374 ",151
+19,Mallorie Waber,India,10,Drinking Coco,07-Mar-22,"$3,948 ",142
+6,Ches Bonnell,UK,22,White Choc,03-Jan-22,"$3,269 ",226
+6,Ches Bonnell,USA,22,White Choc,11-Feb-22,"$5,271 ",341
+8,Dennison Crosswaite,New Zealand,16,Orange Choco,16-Mar-22,"$4,571 ",140
+9,Dotty Strutley,India,22,White Choc,15-Aug-22,"$12,327 ",330
+10,Gigi Bohling,India,13,Manuka Honey Choco,12-May-22,"$4,935 ",73
+24,Van Tuxwell,India,21,Spicy Special Slims,11-Apr-22,"$6,167 ",4
+13,Jan Morforth,New Zealand,15,Mint Chip Choco,30-Jun-22,"$18,340 ",285
+9,Dotty Strutley,New Zealand,22,White Choc,15-Jun-22,"$7,014 ",60
+22,Rafaelita Blaksland,Canada,8,Caramel Stuffed Bars,01-Aug-22,"$7,119 ",101
+15,Kaine Padly,USA,14,Milk Bars,15-Jun-22,"$15,491 ",58
+4,Brien Boise,India,5,After Nines,16-Jun-22,"$5,747 ",45
+21,Oby Sorrel,New Zealand,19,Raspberry Choco,13-May-22,"$4,550 ",281
+8,Dennison Crosswaite,USA,10,Drinking Coco,10-May-22,"$2,191 ",138
+21,Oby Sorrel,India,11,Eclairs,25-Aug-22,"$5,663 ",322
+6,Ches Bonnell,New Zealand,17,Organic Choco Syrup,15-Jul-22,"$7,623 ",85
+10,Gigi Bohling,UK,7,Baker's Choco Chips,16-May-22,"$9,023 ",409
+13,Jan Morforth,Australia,1,50% Dark Bites,14-Jun-22,"$3,402 ",182
+3,Beverie Moffet,Australia,20,Smooth Sliky Salty,25-Jan-22,"$10,507 ",467
+6,Ches Bonnell,USA,17,Organic Choco Syrup,28-Jul-22,"$7,721 ",14
+4,Brien Boise,Canada,15,Mint Chip Choco,28-Jan-22,"$5,033 ",178
+15,Kaine Padly,UK,16,Orange Choco,29-Jun-22,"$1,960 ",191
+16,Karlen McCaffrey,Australia,2,70% Dark Bites,24-Jun-22,$238 ,317
+11,Gunar Cockshoot,Canada,15,Mint Chip Choco,01-Jul-22,"$7,756 ",410
+23,Roddy Speechley,USA,18,Peanut Butter Cubes,25-Feb-22,"$1,736 ",137
+7,Curtice Advani,Canada,20,Smooth Sliky Salty,01-Aug-22,"$2,660 ",12
+21,Oby Sorrel,Australia,14,Milk Bars,21-Jun-22,"$7,672 ",254
+5,Camilla Castle,New Zealand,21,Spicy Special Slims,25-Jan-22,"$11,564 ",24
+10,Gigi Bohling,UK,14,Milk Bars,17-May-22,"$1,365 ",232
+1,Andria Kimpton,Australia,3,85% Dark Bars,23-Aug-22,"$4,186 ",233
+5,Camilla Castle,Australia,20,Smooth Sliky Salty,03-Mar-22,"$7,406 ",118
+23,Roddy Speechley,India,8,Caramel Stuffed Bars,30-May-22,"$8,911 ",543
+16,Karlen McCaffrey,USA,10,Drinking Coco,29-Jun-22,$112 ,223
+1,Andria Kimpton,Canada,17,Organic Choco Syrup,04-Jan-22,"$8,204 ",204
+14,Jehu Rudeforth,Australia,10,Drinking Coco,14-Jan-22,"$2,611 ",65
+16,Karlen McCaffrey,USA,15,Mint Chip Choco,15-Feb-22,"$15,652 ",53
+7,Curtice Advani,New Zealand,21,Spicy Special Slims,10-Jan-22,"$4,074 ",469
+18,Madelene Upcott,USA,22,White Choc,04-May-22,"$12,250 ",213
+1,Andria Kimpton,USA,21,Spicy Special Slims,23-May-22,"$2,366 ",5
+2,Barr Faughny,New Zealand,12,Fruit & Nut Bars,26-Apr-22,"$1,687 ",147
+21,Oby Sorrel,Canada,17,Organic Choco Syrup,05-Jul-22,"$1,232 ",74
+18,Madelene Upcott,UK,17,Organic Choco Syrup,21-Jul-22,"$6,965 ",163
+9,Dotty Strutley,USA,15,Mint Chip Choco,21-Feb-22,"$5,292 ",248
+17,Kelci Walkden,USA,16,Orange Choco,03-Feb-22,"$1,379 ",138
+10,Gigi Bohling,Australia,8,Caramel Stuffed Bars,08-Jul-22,"$8,001 ",151
+19,Mallorie Waber,India,1,50% Dark Bites,31-May-22,$588 ,139
+24,Van Tuxwell,New Zealand,15,Mint Chip Choco,27-Jun-22,"$4,046 ",103
+24,Van Tuxwell,India,1,50% Dark Bites,13-May-22,"$5,103 ",129
+24,Van Tuxwell,USA,13,Manuka Honey Choco,31-May-22,"$2,317 ",102
+25,Wilone O'Kielt,USA,16,Orange Choco,28-Feb-22,"$7,042 ",37
+2,Barr Faughny,New Zealand,11,Eclairs,28-Mar-22,"$6,713 ",31
+10,Gigi Bohling,USA,5,After Nines,14-Jan-22,"$1,848 ",227
+2,Barr Faughny,New Zealand,15,Mint Chip Choco,21-Feb-22,"$6,440 ",145
+8,Dennison Crosswaite,Canada,3,85% Dark Bars,01-Aug-22,"$10,885 ",90
+3,Beverie Moffet,New Zealand,20,Smooth Sliky Salty,19-May-22,"$2,387 ",59
+12,Husein Augar,USA,22,White Choc,13-Jul-22,"$2,030 ",60
+1,Andria Kimpton,Australia,18,Peanut Butter Cubes,20-Apr-22,"$6,678 ",148
+8,Dennison Crosswaite,India,3,85% Dark Bars,30-Jun-22,"$4,515 ",22
+7,Curtice Advani,UK,1,50% Dark Bites,08-Mar-22,"$3,374 ",142
+11,Gunar Cockshoot,USA,12,Fruit & Nut Bars,09-Mar-22,"$5,852 ",93
+21,Oby Sorrel,Canada,19,Raspberry Choco,16-Jun-22,"$1,750 ",208
+10,Gigi Bohling,UK,10,Drinking Coco,30-Jun-22,"$5,782 ",42
+17,Kelci Walkden,India,15,Mint Chip Choco,28-Jul-22,"$2,870 ",120
+16,Karlen McCaffrey,Canada,18,Peanut Butter Cubes,12-Aug-22,"$3,094 ",159
+2,Barr Faughny,UK,15,Mint Chip Choco,07-Jul-22,"$3,724 ",316
+2,Barr Faughny,USA,3,85% Dark Bars,25-Aug-22,"$12,761 ",47
+12,Husein Augar,Canada,11,Eclairs,17-Jan-22,"$3,696 ",233
+13,Jan Morforth,Australia,2,70% Dark Bites,04-Mar-22,"$5,222 ",384
+20,Marney O'Breen,New Zealand,12,Fruit & Nut Bars,25-Aug-22,"$8,939 ",4
+6,Ches Bonnell,UK,18,Peanut Butter Cubes,15-Apr-22,"$2,156 ",260
+15,Kaine Padly,USA,17,Organic Choco Syrup,11-Mar-22,"$2,380 ",22
+5,Camilla Castle,USA,19,Raspberry Choco,20-May-22,"$3,339 ",18
+4,Brien Boise,New Zealand,13,Manuka Honey Choco,14-Jun-22,"$14,980 ",42
+14,Jehu Rudeforth,New Zealand,5,After Nines,14-Apr-22,"$1,512 ",73
+14,Jehu Rudeforth,USA,20,Smooth Sliky Salty,07-Jul-22,"$6,657 ",154
+18,Madelene Upcott,India,15,Mint Chip Choco,24-Aug-22,"$3,836 ",71
+14,Jehu Rudeforth,India,11,Eclairs,24-Feb-22,"$8,771 ",127
+16,Karlen McCaffrey,Canada,19,Raspberry Choco,09-May-22,$651 ,224
+15,Kaine Padly,Australia,2,70% Dark Bites,08-Feb-22,"$6,706 ",223
+23,Roddy Speechley,UK,2,70% Dark Bites,24-Mar-22,"$1,421 ",284
+22,Rafaelita Blaksland,USA,10,Drinking Coco,20-Jun-22,"$8,526 ",73
+19,Mallorie Waber,Canada,13,Manuka Honey Choco,07-Mar-22,"$1,435 ",112
+15,Kaine Padly,Australia,12,Fruit & Nut Bars,20-Jun-22,"$7,434 ",85
+21,Oby Sorrel,New Zealand,17,Organic Choco Syrup,17-Feb-22,"$15,316 ",270
+18,Madelene Upcott,UK,4,99% Dark & Pure,26-Jan-22,"$10,479 ",45
+18,Madelene Upcott,Australia,15,Mint Chip Choco,02-May-22,"$2,751 ",153
+7,Curtice Advani,Canada,4,99% Dark & Pure,07-Jul-22,"$12,586 ",7
+22,Rafaelita Blaksland,Australia,7,Baker's Choco Chips,22-Aug-22,"$2,786 ",51
+16,Karlen McCaffrey,Australia,5,After Nines,11-Aug-22,"$2,303 ",67
+20,Marney O'Breen,UK,4,99% Dark & Pure,13-Jan-22,"$8,113 ",194
+11,Gunar Cockshoot,Australia,1,50% Dark Bites,02-Mar-22,"$12,271 ",116
+20,Marney O'Breen,Australia,9,Choco Coated Almonds,27-Jul-22,"$11,298 ",41
+17,Kelci Walkden,New Zealand,10,Drinking Coco,10-Mar-22,"$15,855 ",111
+3,Beverie Moffet,USA,3,85% Dark Bars,23-Aug-22,"$12,404 ",334
+23,Roddy Speechley,USA,11,Eclairs,25-Apr-22,"$3,990 ",155
+8,Dennison Crosswaite,UK,14,Milk Bars,07-Mar-22,"$10,808 ",407
+25,Wilone O'Kielt,UK,17,Organic Choco Syrup,12-Jul-22,"$4,858 ",52
+18,Madelene Upcott,USA,16,Orange Choco,16-May-22,"$7,742 ",138
+11,Gunar Cockshoot,India,20,Smooth Sliky Salty,02-Mar-22,"$3,752 ",70
+20,Marney O'Breen,New Zealand,3,85% Dark Bars,30-May-22,"$1,218 ",149
+20,Marney O'Breen,UK,13,Manuka Honey Choco,10-Jun-22,"$10,983 ",179
+4,Brien Boise,USA,4,99% Dark & Pure,25-Jul-22,"$6,769 ",353
+3,Beverie Moffet,New Zealand,15,Mint Chip Choco,09-Jun-22,"$4,361 ",97
+8,Dennison Crosswaite,USA,14,Milk Bars,12-May-22,$777 ,60
+11,Gunar Cockshoot,USA,10,Drinking Coco,09-May-22,"$3,843 ",5
+4,Brien Boise,Canada,13,Manuka Honey Choco,09-Aug-22,"$6,930 ",182
+24,Van Tuxwell,India,9,Choco Coated Almonds,13-Apr-22,"$5,733 ",114
+1,Andria Kimpton,USA,8,Caramel Stuffed Bars,02-May-22,"$8,393 ",46
+9,Dotty Strutley,USA,4,99% Dark & Pure,09-Aug-22,"$3,822 ",320
+5,Camilla Castle,Australia,19,Raspberry Choco,23-Aug-22,"$6,342 ",178
+11,Gunar Cockshoot,India,21,Spicy Special Slims,13-May-22,"$6,510 ",170
+16,Karlen McCaffrey,USA,13,Manuka Honey Choco,01-Feb-22,"$10,171 ",67
+5,Camilla Castle,USA,1,50% Dark Bites,23-Jun-22,"$5,908 ",301
+18,Madelene Upcott,UK,9,Choco Coated Almonds,24-May-22,"$10,164 ",134
+13,Jan Morforth,Canada,15,Mint Chip Choco,01-Apr-22,"$1,064 ",211
+5,Camilla Castle,Canada,2,70% Dark Bites,27-Jul-22,"$9,716 ",151
+6,Ches Bonnell,India,18,Peanut Butter Cubes,27-Jan-22,"$22,050 ",208
+13,Jan Morforth,India,9,Choco Coated Almonds,12-Aug-22,"$2,541 ",134
+10,Gigi Bohling,Canada,6,Almond Choco,01-Feb-22,"$9,989 ",49
+22,Rafaelita Blaksland,India,5,After Nines,02-Mar-22,"$4,739 ",204
+17,Kelci Walkden,Australia,4,99% Dark & Pure,30-Jun-22,"$3,185 ",34
+9,Dotty Strutley,Australia,21,Spicy Special Slims,17-Jan-22,"$8,225 ",91
+4,Brien Boise,USA,14,Milk Bars,07-Jul-22,"$14,301 ",130
+19,Mallorie Waber,New Zealand,15,Mint Chip Choco,31-Jan-22,"$1,316 ",107
+3,Beverie Moffet,UK,4,99% Dark & Pure,10-Aug-22,"$3,486 ",121
+3,Beverie Moffet,USA,18,Peanut Butter Cubes,18-Aug-22,"$13,930 ",339
+4,Brien Boise,New Zealand,22,White Choc,15-Jun-22,"$5,509 ",321
+20,Marney O'Breen,USA,7,Baker's Choco Chips,26-Jan-22,"$8,470 ",9
+17,Kelci Walkden,USA,21,Spicy Special Slims,29-Apr-22,$77 ,69
+19,Mallorie Waber,Canada,22,White Choc,03-Mar-22,"$3,381 ",72
+15,Kaine Padly,Australia,6,Almond Choco,22-Feb-22,"$4,102 ",392
+21,Oby Sorrel,USA,20,Smooth Sliky Salty,04-Mar-22,"$3,577 ",158
+8,Dennison Crosswaite,India,20,Smooth Sliky Salty,07-Jul-22,"$2,975 ",9
+5,Camilla Castle,New Zealand,8,Caramel Stuffed Bars,17-Jun-22,"$4,137 ",347
+13,Jan Morforth,Canada,8,Caramel Stuffed Bars,02-Aug-22,"$9,541 ",114
+21,Oby Sorrel,USA,7,Baker's Choco Chips,12-Aug-22,"$8,001 ",120
+18,Madelene Upcott,New Zealand,18,Peanut Butter Cubes,28-Jan-22,"$5,152 ",333
+17,Kelci Walkden,Australia,16,Orange Choco,29-Apr-22,"$11,116 ",432
+20,Marney O'Breen,Australia,13,Manuka Honey Choco,05-Apr-22,"$13,076 ",236
+15,Kaine Padly,Canada,13,Manuka Honey Choco,18-Jan-22,"$10,213 ",135
+14,Jehu Rudeforth,UK,7,Baker's Choco Chips,16-May-22,"$2,485 ",97
+17,Kelci Walkden,Australia,22,White Choc,24-Aug-22,"$8,715 ",168
+7,Curtice Advani,India,3,85% Dark Bars,18-Jan-22,$273 ,402
+15,Kaine Padly,USA,11,Eclairs,22-Aug-22,"$7,623 ",10
+11,Gunar Cockshoot,UK,4,99% Dark & Pure,07-Mar-22,$7 ,84
+3,Beverie Moffet,UK,9,Choco Coated Almonds,04-Mar-22,"$3,010 ",69
+9,Dotty Strutley,Canada,13,Manuka Honey Choco,22-Apr-22,"$11,550 ",111
+15,Kaine Padly,Australia,14,Milk Bars,09-Jun-22,"$4,046 ",89
+13,Jan Morforth,Canada,12,Fruit & Nut Bars,25-Jul-22,"$8,904 ",199
+13,Jan Morforth,India,20,Smooth Sliky Salty,03-Aug-22,"$11,298 ",89
+22,Rafaelita Blaksland,Australia,13,Manuka Honey Choco,03-Aug-22,"$4,396 ",131
+14,Jehu Rudeforth,UK,14,Milk Bars,03-May-22,"$12,068 ",227
+12,Husein Augar,Canada,5,After Nines,19-Jan-22,"$9,772 ",301
+23,Roddy Speechley,USA,1,50% Dark Bites,11-Feb-22,"$10,458 ",316
+24,Van Tuxwell,India,6,Almond Choco,14-Jun-22,"$6,426 ",390
+17,Kelci Walkden,USA,1,50% Dark Bites,23-Mar-22,"$6,188 ",223
+18,Madelene Upcott,Canada,3,85% Dark Bars,17-Feb-22,"$7,504 ",101
+8,Dennison Crosswaite,Canada,20,Smooth Sliky Salty,17-Mar-22,"$1,750 ",479
+19,Mallorie Waber,Australia,21,Spicy Special Slims,29-Jun-22,"$5,439 ",287
+6,Ches Bonnell,Canada,9,Choco Coated Almonds,24-Aug-22,"$15,547 ",269
+10,Gigi Bohling,Canada,21,Spicy Special Slims,04-Jul-22,"$11,956 ",277
+23,Roddy Speechley,New Zealand,6,Almond Choco,28-Mar-22,"$2,723 ",67
+7,Curtice Advani,India,20,Smooth Sliky Salty,19-Apr-22,"$19,327 ",135
+6,Ches Bonnell,New Zealand,15,Mint Chip Choco,18-Jan-22,"$9,058 ",229
+24,Van Tuxwell,New Zealand,12,Fruit & Nut Bars,17-Jan-22,"$2,996 ",88
+1,Andria Kimpton,New Zealand,15,Mint Chip Choco,15-Feb-22,"$8,848 ",211
+1,Andria Kimpton,UK,14,Milk Bars,11-Feb-22,"$14,336 ",293
+5,Camilla Castle,USA,13,Manuka Honey Choco,21-Mar-22,"$16,401 ",179
+11,Gunar Cockshoot,New Zealand,6,Almond Choco,05-Jan-22,"$5,173 ",129
+4,Brien Boise,India,19,Raspberry Choco,30-May-22,"$6,328 ",164
+14,Jehu Rudeforth,USA,4,99% Dark & Pure,04-Jan-22,"$2,534 ",219
+3,Beverie Moffet,Australia,12,Fruit & Nut Bars,22-Apr-22,"$1,435 ",258
+10,Gigi Bohling,Canada,14,Milk Bars,10-Feb-22,"$3,052 ",116
+9,Dotty Strutley,India,21,Spicy Special Slims,12-Aug-22,$910 ,204
+11,Gunar Cockshoot,USA,17,Organic Choco Syrup,10-Aug-22,"$2,331 ",321
+17,Kelci Walkden,Australia,19,Raspberry Choco,07-Jun-22,$679 ,56
+14,Jehu Rudeforth,India,7,Baker's Choco Chips,06-Jun-22,"$2,086 ",74
+16,Karlen McCaffrey,New Zealand,7,Baker's Choco Chips,05-Apr-22,"$5,012 ",189
+25,Wilone O'Kielt,USA,1,50% Dark Bites,18-Apr-22,"$4,501 ",131
+1,Andria Kimpton,India,1,50% Dark Bites,31-Jan-22,"$13,482 ",15
+18,Madelene Upcott,USA,7,Baker's Choco Chips,22-Aug-22,"$5,621 ",140
+14,Jehu Rudeforth,Australia,4,99% Dark & Pure,25-Feb-22,"$10,486 ",198
+13,Jan Morforth,Australia,15,Mint Chip Choco,22-Feb-22,"$17,626 ",103
+21,Oby Sorrel,New Zealand,14,Milk Bars,12-Jan-22,"$4,494 ",187
+4,Brien Boise,UK,6,Almond Choco,25-May-22,$105 ,125
+17,Kelci Walkden,India,20,Smooth Sliky Salty,01-Feb-22,"$2,464 ",8
+22,Rafaelita Blaksland,UK,11,Eclairs,27-Apr-22,"$1,379 ",70
+10,Gigi Bohling,USA,20,Smooth Sliky Salty,22-Jul-22,"$2,583 ",126
+7,Curtice Advani,New Zealand,15,Mint Chip Choco,26-Jan-22,"$3,220 ",265
+7,Curtice Advani,USA,15,Mint Chip Choco,24-Aug-22,"$4,802 ",296
+18,Madelene Upcott,New Zealand,12,Fruit & Nut Bars,18-Jan-22,"$5,677 ",21
+16,Karlen McCaffrey,India,3,85% Dark Bars,30-Mar-22,$945 ,83
+6,Ches Bonnell,Australia,8,Caramel Stuffed Bars,17-Jan-22,"$8,757 ",162
+17,Kelci Walkden,USA,12,Fruit & Nut Bars,17-Feb-22,"$4,816 ",145
+17,Kelci Walkden,Canada,18,Peanut Butter Cubes,08-Apr-22,"$7,532 ",44
+10,Gigi Bohling,Canada,10,Drinking Coco,06-Jul-22,"$3,549 ",82
+12,Husein Augar,India,12,Fruit & Nut Bars,04-Apr-22,"$4,340 ",226
+13,Jan Morforth,New Zealand,17,Organic Choco Syrup,02-Mar-22,"$1,799 ",207
+10,Gigi Bohling,New Zealand,19,Raspberry Choco,09-Aug-22,"$1,127 ",176
+8,Dennison Crosswaite,Australia,14,Milk Bars,09-Jun-22,"$10,038 ",286
+6,Ches Bonnell,UK,8,Caramel Stuffed Bars,02-Jun-22,"$2,926 ",300
+24,Van Tuxwell,USA,12,Fruit & Nut Bars,05-Jul-22,"$6,279 ",235
+1,Andria Kimpton,Canada,11,Eclairs,11-Aug-22,$308 ,125
+18,Madelene Upcott,India,9,Choco Coated Almonds,11-Feb-22,"$3,500 ",145
+17,Kelci Walkden,New Zealand,21,Spicy Special Slims,11-Aug-22,$658 ,65
+23,Roddy Speechley,Australia,10,Drinking Coco,12-May-22,"$12,565 ",102
+25,Wilone O'Kielt,USA,14,Milk Bars,15-Jul-22,"$5,012 ",93
+1,Andria Kimpton,India,17,Organic Choco Syrup,18-Jan-22,"$3,955 ",134
+18,Madelene Upcott,UK,12,Fruit & Nut Bars,05-Jan-22,"$8,512 ",189
+7,Curtice Advani,Australia,1,50% Dark Bites,29-Jun-22,$504 ,232
+4,Brien Boise,Canada,19,Raspberry Choco,14-Jun-22,"$2,800 ",45
+11,Gunar Cockshoot,India,15,Mint Chip Choco,08-Aug-22,"$4,256 ",67
+8,Dennison Crosswaite,India,15,Mint Chip Choco,23-Mar-22,"$13,573 ",138
+2,Barr Faughny,India,8,Caramel Stuffed Bars,04-Jan-22,"$6,566 ",99
+4,Brien Boise,India,14,Milk Bars,22-Feb-22,"$13,503 ",251
+3,Beverie Moffet,UK,21,Spicy Special Slims,17-Feb-22,"$8,680 ",252
+2,Barr Faughny,USA,6,Almond Choco,03-Feb-22,$385 ,78
+24,Van Tuxwell,Canada,19,Raspberry Choco,17-Mar-22,"$1,267 ",130
+25,Wilone O'Kielt,Australia,7,Baker's Choco Chips,25-Jan-22,"$2,961 ",154
+4,Brien Boise,Australia,14,Milk Bars,27-Jul-22,"$1,981 ",52
+12,Husein Augar,Australia,12,Fruit & Nut Bars,28-Jan-22,"$7,959 ",53
+18,Madelene Upcott,Australia,17,Organic Choco Syrup,05-Jul-22,"$10,794 ",50
+24,Van Tuxwell,India,22,White Choc,15-Mar-22,"$1,897 ",44
+11,Gunar Cockshoot,Canada,5,After Nines,04-Aug-22,"$2,744 ",200
+13,Jan Morforth,USA,12,Fruit & Nut Bars,27-Jun-22,"$4,382 ",361
+13,Jan Morforth,Canada,5,After Nines,13-Jul-22,"$4,515 ",172
+2,Barr Faughny,New Zealand,13,Manuka Honey Choco,24-Feb-22,"$5,474 ",239
+16,Karlen McCaffrey,New Zealand,3,85% Dark Bars,28-Jun-22,"$6,069 ",55
+21,Oby Sorrel,Australia,3,85% Dark Bars,30-Jun-22,"$6,944 ",27
+7,Curtice Advani,Canada,9,Choco Coated Almonds,18-Aug-22,"$5,859 ",7
+15,Kaine Padly,India,2,70% Dark Bites,24-Jan-22,"$12,173 ",301
+3,Beverie Moffet,USA,22,White Choc,11-Mar-22,"$5,292 ",134
+6,Ches Bonnell,New Zealand,5,After Nines,23-Jun-22,"$5,705 ",350
+12,Husein Augar,India,21,Spicy Special Slims,22-Aug-22,"$2,492 ",33
+11,Gunar Cockshoot,Canada,1,50% Dark Bites,04-Jan-22,"$3,024 ",23
+7,Curtice Advani,India,14,Milk Bars,05-Apr-22,"$3,437 ",201
+3,Beverie Moffet,India,14,Milk Bars,15-Apr-22,"$1,869 ",323
+12,Husein Augar,Australia,22,White Choc,11-May-22,"$3,171 ",220
+1,Andria Kimpton,Canada,13,Manuka Honey Choco,21-Jul-22,"$4,858 ",488
+13,Jan Morforth,New Zealand,16,Orange Choco,11-Feb-22,"$1,225 ",84
+1,Andria Kimpton,Canada,20,Smooth Sliky Salty,08-Jul-22,"$1,155 ",79
+11,Gunar Cockshoot,UK,19,Raspberry Choco,11-Aug-22,"$6,811 ",344
+12,Husein Augar,New Zealand,5,After Nines,04-Aug-22,"$6,433 ",7
+1,Andria Kimpton,New Zealand,16,Orange Choco,14-Jun-22,"$8,169 ",88
+8,Dennison Crosswaite,UK,7,Baker's Choco Chips,17-Jan-22,"$2,275 ",275
+14,Jehu Rudeforth,Canada,16,Orange Choco,23-Jun-22,"$3,857 ",512
+14,Jehu Rudeforth,UK,20,Smooth Sliky Salty,24-Aug-22,"$1,463 ",113
+1,Andria Kimpton,UK,8,Caramel Stuffed Bars,07-Jun-22,"$7,924 ",275
+13,Jan Morforth,UK,22,White Choc,22-Jun-22,"$8,799 ",47
+9,Dotty Strutley,USA,12,Fruit & Nut Bars,13-Jul-22,"$2,898 ",276
+17,Kelci Walkden,UK,9,Choco Coated Almonds,24-May-22,"$9,506 ",212
+11,Gunar Cockshoot,New Zealand,5,After Nines,09-Aug-22,"$7,175 ",145
+15,Kaine Padly,Canada,3,85% Dark Bars,06-Apr-22,"$1,729 ",31
+13,Jan Morforth,New Zealand,13,Manuka Honey Choco,28-Jul-22,"$1,589 ",271
+11,Gunar Cockshoot,New Zealand,19,Raspberry Choco,24-Aug-22,$630 ,52
+24,Van Tuxwell,Australia,4,99% Dark & Pure,17-Jan-22,$112 ,128
+7,Curtice Advani,USA,10,Drinking Coco,07-Feb-22,"$5,187 ",142
+4,Brien Boise,Australia,21,Spicy Special Slims,09-May-22,"$6,223 ",256
+19,Mallorie Waber,New Zealand,3,85% Dark Bars,06-Jun-22,"$7,714 ",106
+25,Wilone O'Kielt,USA,9,Choco Coated Almonds,06-Jun-22,"$9,457 ",6
+3,Beverie Moffet,New Zealand,17,Organic Choco Syrup,24-May-22,"$6,678 ",226
+11,Gunar Cockshoot,UK,1,50% Dark Bites,13-Jan-22,"$2,107 ",121
+20,Marney O'Breen,USA,19,Raspberry Choco,23-May-22,"$6,069 ",151
+14,Jehu Rudeforth,UK,22,White Choc,29-Jun-22,"$1,862 ",284
+14,Jehu Rudeforth,New Zealand,3,85% Dark Bars,11-Mar-22,"$6,972 ",89
+9,Dotty Strutley,USA,3,85% Dark Bars,25-Apr-22,"$10,220 ",508
+22,Rafaelita Blaksland,Australia,20,Smooth Sliky Salty,30-May-22,"$3,969 ",243
+7,Curtice Advani,India,13,Manuka Honey Choco,23-May-22,"$1,547 ",170
+19,Mallorie Waber,USA,18,Peanut Butter Cubes,23-May-22,"$1,162 ",18
+24,Van Tuxwell,Canada,18,Peanut Butter Cubes,24-Jun-22,"$6,342 ",282
+17,Kelci Walkden,New Zealand,20,Smooth Sliky Salty,11-Mar-22,"$10,633 ",277
+22,Rafaelita Blaksland,USA,20,Smooth Sliky Salty,27-Jul-22,"$15,057 ",212
+22,Rafaelita Blaksland,USA,22,White Choc,16-Aug-22,"$4,704 ",126
+23,Roddy Speechley,Canada,20,Smooth Sliky Salty,07-Mar-22,"$9,338 ",11
+7,Curtice Advani,New Zealand,5,After Nines,05-Apr-22,"$7,959 ",30
+5,Camilla Castle,India,3,85% Dark Bars,04-May-22,"$9,023 ",51
+6,Ches Bonnell,USA,9,Choco Coated Almonds,04-Jan-22,"$14,525 ",92
+20,Marney O'Breen,Australia,7,Baker's Choco Chips,13-Jan-22,"$5,810 ",101
+25,Wilone O'Kielt,New Zealand,12,Fruit & Nut Bars,11-Jul-22,"$6,426 ",98
+15,Kaine Padly,Australia,15,Mint Chip Choco,17-May-22,"$4,403 ",159
+5,Camilla Castle,New Zealand,18,Peanut Butter Cubes,21-Jul-22,"$1,582 ",62
+7,Curtice Advani,Canada,17,Organic Choco Syrup,22-Feb-22,$791 ,22
+13,Jan Morforth,India,4,99% Dark & Pure,23-May-22,"$9,100 ",187
+22,Rafaelita Blaksland,Canada,10,Drinking Coco,12-Jul-22,"$9,884 ",200
+13,Jan Morforth,UK,16,Orange Choco,15-Jun-22,"$3,780 ",201
+2,Barr Faughny,New Zealand,1,50% Dark Bites,23-Jun-22,"$4,557 ",308
+7,Curtice Advani,Australia,11,Eclairs,25-Mar-22,"$5,796 ",55
+13,Jan Morforth,India,8,Caramel Stuffed Bars,04-Jul-22,$84 ,153
+1,Andria Kimpton,UK,22,White Choc,12-May-22,"$9,037 ",101
+5,Camilla Castle,New Zealand,19,Raspberry Choco,04-Apr-22,"$4,746 ",137
+18,Madelene Upcott,Australia,16,Orange Choco,15-Apr-22,"$6,713 ",398
+23,Roddy Speechley,Canada,11,Eclairs,08-Mar-22,"$6,237 ",88
+16,Karlen McCaffrey,India,22,White Choc,17-Jan-22,"$7,483 ",232
+25,Wilone O'Kielt,India,15,Mint Chip Choco,22-Aug-22,"$1,309 ",51
+1,Andria Kimpton,UK,4,99% Dark & Pure,25-Jul-22,"$1,155 ",66
+20,Marney O'Breen,UK,1,50% Dark Bites,14-Jun-22,"$2,989 ",124
+6,Ches Bonnell,India,9,Choco Coated Almonds,05-Apr-22,"$9,625 ",78
+18,Madelene Upcott,UK,19,Raspberry Choco,26-Aug-22,"$7,357 ",341
+25,Wilone O'Kielt,Australia,1,50% Dark Bites,03-Aug-22,"$10,031 ",114
+10,Gigi Bohling,Canada,22,White Choc,11-Jul-22,"$6,587 ",4
+25,Wilone O'Kielt,New Zealand,11,Eclairs,11-Mar-22,"$3,311 ",22
+4,Brien Boise,UK,18,Peanut Butter Cubes,10-Jan-22,"$15,330 ",30
+23,Roddy Speechley,UK,7,Baker's Choco Chips,04-Apr-22,"$14,028 ",351
+16,Karlen McCaffrey,Australia,1,50% Dark Bites,17-Jan-22,"$6,678 ",708
+20,Marney O'Breen,New Zealand,17,Organic Choco Syrup,08-Jul-22,"$8,624 ",50
+13,Jan Morforth,UK,17,Organic Choco Syrup,12-Apr-22,"$1,197 ",356
+22,Rafaelita Blaksland,Canada,12,Fruit & Nut Bars,24-Aug-22,$483 ,185
+6,Ches Bonnell,UK,9,Choco Coated Almonds,07-Jun-22,"$1,687 ",236
+11,Gunar Cockshoot,Canada,6,Almond Choco,28-Jul-22,"$1,309 ",30
+12,Husein Augar,USA,4,99% Dark & Pure,21-Feb-22,"$9,534 ",111
+8,Dennison Crosswaite,Canada,15,Mint Chip Choco,08-Apr-22,"$1,694 ",289
+4,Brien Boise,UK,13,Manuka Honey Choco,28-Jun-22,$70 ,103
+24,Van Tuxwell,UK,7,Baker's Choco Chips,24-Mar-22,"$2,443 ",20
+2,Barr Faughny,Australia,8,Caramel Stuffed Bars,29-Jul-22,"$2,933 ",55
+8,Dennison Crosswaite,USA,11,Eclairs,25-May-22,"$2,044 ",90
+10,Gigi Bohling,Australia,19,Raspberry Choco,30-Mar-22,"$6,524 ",303
+8,Dennison Crosswaite,USA,17,Organic Choco Syrup,18-Jul-22,"$12,656 ",126
+3,Beverie Moffet,Canada,16,Orange Choco,10-May-22,"$8,722 ",109
+19,Mallorie Waber,Australia,9,Choco Coated Almonds,18-Mar-22,"$15,750 ",92
+6,Ches Bonnell,India,8,Caramel Stuffed Bars,15-Jun-22,"$6,839 ",56
+24,Van Tuxwell,Canada,1,50% Dark Bites,12-May-22,"$13,685 ",58
+17,Kelci Walkden,New Zealand,7,Baker's Choco Chips,23-Jun-22,"$2,912 ",110
+3,Beverie Moffet,India,21,Spicy Special Slims,21-Apr-22,"$3,339 ",171
+10,Gigi Bohling,Australia,6,Almond Choco,17-Aug-22,$910 ,117
+22,Rafaelita Blaksland,New Zealand,11,Eclairs,07-Feb-22,"$19,481 ",51
+17,Kelci Walkden,Canada,20,Smooth Sliky Salty,17-Mar-22,"$8,099 ",118
+13,Jan Morforth,India,7,Baker's Choco Chips,01-Aug-22,"$13,727 ",79
+14,Jehu Rudeforth,Australia,14,Milk Bars,18-Mar-22,"$8,659 ",29
+10,Gigi Bohling,Canada,12,Fruit & Nut Bars,14-Jun-22,"$5,782 ",103
+3,Beverie Moffet,UK,11,Eclairs,22-Apr-22,"$8,463 ",155
+20,Marney O'Breen,New Zealand,11,Eclairs,18-Jan-22,"$4,914 ",31
+12,Husein Augar,Australia,4,99% Dark & Pure,26-Aug-22,"$3,087 ",128
+11,Gunar Cockshoot,New Zealand,12,Fruit & Nut Bars,10-Jun-22,"$9,205 ",419
+7,Curtice Advani,Canada,2,70% Dark Bites,31-Jan-22,"$2,303 ",7
+17,Kelci Walkden,New Zealand,13,Manuka Honey Choco,08-Apr-22,"$1,358 ",106
+9,Dotty Strutley,Australia,7,Baker's Choco Chips,07-Jun-22,"$3,605 ",68
+2,Barr Faughny,Australia,3,85% Dark Bars,10-Feb-22,"$8,498 ",44
+3,Beverie Moffet,Australia,1,50% Dark Bites,16-May-22,$700 ,457
+11,Gunar Cockshoot,India,7,Baker's Choco Chips,18-Mar-22,"$2,191 ",524
+24,Van Tuxwell,Australia,1,50% Dark Bites,13-Jul-22,$644 ,137
+21,Oby Sorrel,USA,13,Manuka Honey Choco,25-Jul-22,"$4,340 ",86
+24,Van Tuxwell,Canada,9,Choco Coated Almonds,19-Aug-22,"$2,282 ",296
+16,Karlen McCaffrey,Canada,2,70% Dark Bites,24-Jun-22,"$7,714 ",597
+17,Kelci Walkden,Canada,12,Fruit & Nut Bars,20-Jun-22,$826 ,149
+5,Camilla Castle,India,4,99% Dark & Pure,02-Aug-22,$203 ,207
+18,Madelene Upcott,New Zealand,2,70% Dark Bites,22-Feb-22,"$13,356 ",93
+19,Mallorie Waber,New Zealand,16,Orange Choco,01-Feb-22,"$6,510 ",23
+13,Jan Morforth,Canada,2,70% Dark Bites,14-Feb-22,"$5,894 ",305
+17,Kelci Walkden,Australia,14,Milk Bars,24-Feb-22,"$7,910 ",125
+8,Dennison Crosswaite,India,16,Orange Choco,18-Mar-22,$784 ,129
+12,Husein Augar,UK,11,Eclairs,30-Aug-22,"$1,750 ",252
+10,Gigi Bohling,USA,18,Peanut Butter Cubes,09-May-22,$280 ,75
+25,Wilone O'Kielt,USA,20,Smooth Sliky Salty,18-Jan-22,$504 ,87
+7,Curtice Advani,India,22,White Choc,04-Jul-22,"$7,154 ",342
+21,Oby Sorrel,New Zealand,21,Spicy Special Slims,03-Jun-22,"$1,617 ",13
+3,Beverie Moffet,New Zealand,18,Peanut Butter Cubes,23-Feb-22,"$10,822 ",30
+9,Dotty Strutley,New Zealand,4,99% Dark & Pure,09-May-22,"$10,724 ",203
+17,Kelci Walkden,India,2,70% Dark Bites,06-Jun-22,"$3,640 ",106
+17,Kelci Walkden,India,10,Drinking Coco,04-Jul-22,"$7,532 ",234
+4,Brien Boise,New Zealand,10,Drinking Coco,06-Jun-22,"$1,582 ",100
+9,Dotty Strutley,Australia,6,Almond Choco,13-May-22,"$1,456 ",91
+25,Wilone O'Kielt,New Zealand,17,Organic Choco Syrup,31-Jan-22,"$2,016 ",277
+6,Ches Bonnell,New Zealand,8,Caramel Stuffed Bars,30-Jun-22,"$7,588 ",42
+2,Barr Faughny,Canada,13,Manuka Honey Choco,25-Aug-22,"$3,402 ",249
+10,Gigi Bohling,New Zealand,20,Smooth Sliky Salty,10-Jan-22,$700 ,97
+4,Brien Boise,USA,13,Manuka Honey Choco,22-Aug-22,"$1,904 ",8
+23,Roddy Speechley,New Zealand,3,85% Dark Bars,14-Apr-22,"$4,844 ",275
+21,Oby Sorrel,UK,20,Smooth Sliky Salty,31-May-22,"$9,625 ",313
+21,Oby Sorrel,UK,19,Raspberry Choco,08-Apr-22,"$4,599 ",323
+23,Roddy Speechley,USA,10,Drinking Coco,21-Feb-22,"$3,003 ",155
+1,Andria Kimpton,Australia,13,Manuka Honey Choco,30-Mar-22,"$9,744 ",377
+19,Mallorie Waber,India,19,Raspberry Choco,02-Mar-22,"$1,400 ",2
+14,Jehu Rudeforth,USA,16,Orange Choco,28-Jul-22,$364 ,170
+15,Kaine Padly,New Zealand,2,70% Dark Bites,24-Mar-22,"$7,231 ",38
+7,Curtice Advani,Australia,5,After Nines,11-Aug-22,$63 ,105
+12,Husein Augar,UK,6,Almond Choco,17-May-22,"$8,309 ",166
+15,Kaine Padly,Canada,9,Choco Coated Almonds,18-May-22,"$3,164 ",164
+23,Roddy Speechley,UK,18,Peanut Butter Cubes,17-Aug-22,"$5,691 ",171
+6,Ches Bonnell,New Zealand,11,Eclairs,04-Apr-22,$490 ,49
+4,Brien Boise,India,3,85% Dark Bars,09-Aug-22,"$18,032 ",205
+4,Brien Boise,New Zealand,17,Organic Choco Syrup,17-Jan-22,$637 ,313
+1,Andria Kimpton,Canada,22,White Choc,14-Feb-22,"$4,067 ",29
+10,Gigi Bohling,New Zealand,16,Orange Choco,16-May-22,"$8,204 ",307
+6,Ches Bonnell,Canada,20,Smooth Sliky Salty,16-Mar-22,"$9,870 ",121
+12,Husein Augar,Canada,2,70% Dark Bites,31-Jan-22,"$5,131 ",285
+2,Barr Faughny,Canada,17,Organic Choco Syrup,10-Mar-22,"$1,141 ",205
+21,Oby Sorrel,UK,17,Organic Choco Syrup,30-Jun-22,"$7,980 ",157
+24,Van Tuxwell,New Zealand,11,Eclairs,01-Mar-22,"$5,229 ",182
+19,Mallorie Waber,UK,10,Drinking Coco,27-May-22,"$3,423 ",100
+21,Oby Sorrel,UK,14,Milk Bars,11-Jul-22,"$6,468 ",223
+16,Karlen McCaffrey,New Zealand,15,Mint Chip Choco,02-Mar-22,"$4,326 ",61
+14,Jehu Rudeforth,USA,19,Raspberry Choco,04-Mar-22,"$7,154 ",133
+17,Kelci Walkden,UK,3,85% Dark Bars,23-Jun-22,"$3,997 ",228
+17,Kelci Walkden,USA,6,Almond Choco,27-Jan-22,"$5,180 ",233
+20,Marney O'Breen,Canada,16,Orange Choco,14-Jan-22,"$2,723 ",425
+8,Dennison Crosswaite,India,12,Fruit & Nut Bars,29-Jul-22,$952 ,24
+4,Brien Boise,Canada,20,Smooth Sliky Salty,13-May-22,"$5,691 ",495
+2,Barr Faughny,Canada,7,Baker's Choco Chips,03-Feb-22,"$10,969 ",170
+4,Brien Boise,India,20,Smooth Sliky Salty,27-May-22,"$5,964 ",26
+13,Jan Morforth,Australia,10,Drinking Coco,18-Feb-22,"$2,821 ",24
+4,Brien Boise,India,21,Spicy Special Slims,28-Jan-22,"$1,302 ",33
+24,Van Tuxwell,UK,11,Eclairs,29-Jun-22,"$5,474 ",109
+25,Wilone O'Kielt,India,8,Caramel Stuffed Bars,13-Jan-22,"$4,179 ",276
+14,Jehu Rudeforth,UK,5,After Nines,27-Jun-22,"$1,946 ",164
+2,Barr Faughny,Canada,22,White Choc,29-Mar-22,"$4,291 ",1
+11,Gunar Cockshoot,India,17,Organic Choco Syrup,03-Jun-22,"$7,196 ",160
+19,Mallorie Waber,Canada,20,Smooth Sliky Salty,21-Mar-22,"$1,939 ",98
+19,Mallorie Waber,India,11,Eclairs,12-Apr-22,"$10,437 ",46
+22,Rafaelita Blaksland,Australia,19,Raspberry Choco,19-Jan-22,"$6,916 ",259
+16,Karlen McCaffrey,UK,1,50% Dark Bites,06-Apr-22,"$3,647 ",310
+15,Kaine Padly,Australia,1,50% Dark Bites,02-Aug-22,"$8,995 ",78
+10,Gigi Bohling,Australia,11,Eclairs,12-Apr-22,"$7,252 ",136
+21,Oby Sorrel,India,10,Drinking Coco,21-Jul-22,"$16,380 ",130
+24,Van Tuxwell,New Zealand,7,Baker's Choco Chips,22-Mar-22,"$9,660 ",24
+12,Husein Augar,India,18,Peanut Butter Cubes,09-May-22,"$4,522 ",5
+1,Andria Kimpton,Australia,7,Baker's Choco Chips,09-Aug-22,$329 ,109
+18,Madelene Upcott,Canada,9,Choco Coated Almonds,20-Jul-22,"$3,458 ",294
+4,Brien Boise,India,2,70% Dark Bites,14-Apr-22,"$4,641 ",413
+14,Jehu Rudeforth,Canada,22,White Choc,25-Jan-22,"$4,627 ",136
+1,Andria Kimpton,Australia,6,Almond Choco,25-Apr-22,"$3,192 ",175
+9,Dotty Strutley,Canada,5,After Nines,17-Jan-22,$252 ,237
+16,Karlen McCaffrey,USA,11,Eclairs,15-Aug-22,$868 ,125
+16,Karlen McCaffrey,Canada,12,Fruit & Nut Bars,02-Jun-22,$210 ,16
+11,Gunar Cockshoot,USA,3,85% Dark Bars,30-Jun-22,"$7,007 ",135
+9,Dotty Strutley,New Zealand,19,Raspberry Choco,10-Feb-22,"$5,845 ",91
+20,Marney O'Breen,Canada,8,Caramel Stuffed Bars,23-Feb-22,"$1,372 ",614
+8,Dennison Crosswaite,India,17,Organic Choco Syrup,27-Jan-22,"$8,428 ",216
+5,Camilla Castle,UK,15,Mint Chip Choco,26-May-22,"$4,977 ",317
+4,Brien Boise,USA,2,70% Dark Bites,14-Apr-22,"$1,694 ",21
+18,Madelene Upcott,Australia,4,99% Dark & Pure,01-Aug-22,"$4,326 ",154
+19,Mallorie Waber,Australia,11,Eclairs,22-Aug-22,"$9,527 ",222
+20,Marney O'Breen,India,4,99% Dark & Pure,22-Jul-22,"$10,766 ",157
+12,Husein Augar,USA,12,Fruit & Nut Bars,28-Apr-22,"$1,288 ",27
+17,Kelci Walkden,Australia,6,Almond Choco,30-May-22,"$4,879 ",350
+6,Ches Bonnell,USA,14,Milk Bars,21-Jul-22,"$2,408 ",157
+13,Jan Morforth,UK,8,Caramel Stuffed Bars,02-Aug-22,"$3,094 ",468
+4,Brien Boise,New Zealand,2,70% Dark Bites,15-Jun-22,"$7,231 ",130
+21,Oby Sorrel,India,3,85% Dark Bars,05-Jul-22,"$8,981 ",130
+15,Kaine Padly,New Zealand,20,Smooth Sliky Salty,12-Apr-22,$7 ,518
+10,Gigi Bohling,Australia,2,70% Dark Bites,18-Aug-22,"$1,372 ",105
+13,Jan Morforth,UK,1,50% Dark Bites,12-Jan-22,"$5,250 ",293
+11,Gunar Cockshoot,Canada,22,White Choc,11-Aug-22,"$7,560 ",15
+14,Jehu Rudeforth,Australia,21,Spicy Special Slims,13-Jan-22,"$5,012 ",384
+12,Husein Augar,UK,7,Baker's Choco Chips,29-Apr-22,"$3,038 ",135
+22,Rafaelita Blaksland,New Zealand,5,After Nines,07-Jul-22,"$1,099 ",92
+18,Madelene Upcott,New Zealand,15,Mint Chip Choco,11-Mar-22,"$7,413 ",4
+18,Madelene Upcott,UK,2,70% Dark Bites,16-Feb-22,"$5,397 ",239
+2,Barr Faughny,Australia,17,Organic Choco Syrup,07-Jan-22,"$2,303 ",33
+3,Beverie Moffet,New Zealand,10,Drinking Coco,12-Jan-22,"$1,141 ",518
+3,Beverie Moffet,India,11,Eclairs,09-Jun-22,"$10,325 ",147
+1,Andria Kimpton,India,11,Eclairs,16-May-22,"$2,149 ",84
+10,Gigi Bohling,UK,3,85% Dark Bars,23-Jun-22,"$12,362 ",94
+23,Roddy Speechley,UK,19,Raspberry Choco,28-Jan-22,"$12,635 ",194
+9,Dotty Strutley,UK,15,Mint Chip Choco,14-Jul-22,"$2,443 ",216
+2,Barr Faughny,Canada,10,Drinking Coco,18-Apr-22,"$6,237 ",247
+21,Oby Sorrel,USA,14,Milk Bars,14-Jun-22,"$1,736 ",79
+21,Oby Sorrel,UK,16,Orange Choco,15-Apr-22,"$7,315 ",237
+7,Curtice Advani,Canada,18,Peanut Butter Cubes,19-May-22,"$4,935 ",63
+10,Gigi Bohling,India,22,White Choc,13-Apr-22,"$1,393 ",172
+12,Husein Augar,Canada,9,Choco Coated Almonds,15-Aug-22,"$3,381 ",408
+25,Wilone O'Kielt,India,9,Choco Coated Almonds,22-Aug-22,"$2,933 ",233
+25,Wilone O'Kielt,New Zealand,7,Baker's Choco Chips,22-Apr-22,"$3,836 ",59
+15,Kaine Padly,UK,9,Choco Coated Almonds,03-Aug-22,"$8,022 ",123
+8,Dennison Crosswaite,New Zealand,17,Organic Choco Syrup,04-Jan-22,$371 ,229
+17,Kelci Walkden,Canada,5,After Nines,13-Jan-22,"$16,702 ",198
+24,Van Tuxwell,Australia,7,Baker's Choco Chips,11-May-22,"$13,258 ",32
+12,Husein Augar,New Zealand,18,Peanut Butter Cubes,16-Feb-22,"$2,058 ",236
+15,Kaine Padly,UK,8,Caramel Stuffed Bars,20-May-22,"$10,192 ",67
+14,Jehu Rudeforth,UK,10,Drinking Coco,03-Feb-22,"$7,140 ",438
+3,Beverie Moffet,India,13,Manuka Honey Choco,06-May-22,"$9,835 ",167
+11,Gunar Cockshoot,UK,9,Choco Coated Almonds,30-Jun-22,"$5,775 ",135
+11,Gunar Cockshoot,UK,20,Smooth Sliky Salty,22-Mar-22,$749 ,148
+5,Camilla Castle,Canada,16,Orange Choco,17-Feb-22,"$7,770 ",54
+14,Jehu Rudeforth,UK,3,85% Dark Bars,07-Jul-22,"$5,502 ",64
+21,Oby Sorrel,UK,2,70% Dark Bites,16-Mar-22,"$6,223 ",181
+17,Kelci Walkden,UK,4,99% Dark & Pure,12-Aug-22,"$3,507 ",114
+10,Gigi Bohling,New Zealand,5,After Nines,21-Jan-22,"$5,600 ",181
+21,Oby Sorrel,Australia,1,50% Dark Bites,06-May-22,$721 ,151
+21,Oby Sorrel,Canada,1,50% Dark Bites,24-Jun-22,"$6,615 ",137
+2,Barr Faughny,USA,22,White Choc,05-May-22,"$7,420 ",163
+22,Rafaelita Blaksland,New Zealand,4,99% Dark & Pure,25-Mar-22,"$3,164 ",84
+7,Curtice Advani,Australia,8,Caramel Stuffed Bars,14-Feb-22,"$9,114 ",140
+7,Curtice Advani,New Zealand,3,85% Dark Bars,12-May-22,"$5,404 ",187
+2,Barr Faughny,New Zealand,20,Smooth Sliky Salty,25-Jan-22,"$3,990 ",169
+6,Ches Bonnell,UK,3,85% Dark Bars,28-Jun-22,"$14,924 ",12
+8,Dennison Crosswaite,Australia,10,Drinking Coco,13-Jul-22,"$7,091 ",194
+23,Roddy Speechley,USA,14,Milk Bars,16-May-22,"$2,807 ",252
+13,Jan Morforth,India,5,After Nines,14-Mar-22,"$6,496 ",168
+11,Gunar Cockshoot,USA,5,After Nines,15-Aug-22,"$3,738 ",261
+6,Ches Bonnell,India,16,Orange Choco,16-Feb-22,"$1,190 ",256
+19,Mallorie Waber,UK,13,Manuka Honey Choco,15-Jun-22,"$8,379 ",43
+2,Barr Faughny,Australia,19,Raspberry Choco,27-May-22,"$9,268 ",100
+25,Wilone O'Kielt,USA,10,Drinking Coco,14-Jun-22,"$1,029 ",98
+25,Wilone O'Kielt,India,11,Eclairs,25-Feb-22,"$3,549 ",76
+25,Wilone O'Kielt,India,5,After Nines,04-Aug-22,"$12,026 ",262
+17,Kelci Walkden,India,4,99% Dark & Pure,28-Jun-22,"$2,303 ",244
+11,Gunar Cockshoot,Canada,21,Spicy Special Slims,05-Apr-22,"$13,405 ",12
+18,Madelene Upcott,Canada,18,Peanut Butter Cubes,05-Jul-22,"$14,763 ",113
+15,Kaine Padly,New Zealand,11,Eclairs,20-Jan-22,"$12,894 ",48
+6,Ches Bonnell,New Zealand,10,Drinking Coco,16-Feb-22,"$8,302 ",131
+7,Curtice Advani,UK,10,Drinking Coco,12-Jul-22,$455 ,174
+17,Kelci Walkden,India,19,Raspberry Choco,16-Jun-22,"$8,183 ",254
+9,Dotty Strutley,Australia,9,Choco Coated Almonds,13-Apr-22,"$1,645 ",284
+15,Kaine Padly,UK,1,50% Dark Bites,21-Feb-22,"$3,143 ",67
+23,Roddy Speechley,Canada,9,Choco Coated Almonds,11-May-22,"$5,873 ",249
+6,Ches Bonnell,India,1,50% Dark Bites,15-Apr-22,"$11,298 ",313
+21,Oby Sorrel,Canada,18,Peanut Butter Cubes,07-Jun-22,"$12,425 ",167
+21,Oby Sorrel,UK,22,White Choc,27-Jun-22,"$1,715 ",286
+2,Barr Faughny,India,5,After Nines,29-Jul-22,"$8,190 ",109
+25,Wilone O'Kielt,Canada,20,Smooth Sliky Salty,02-Jun-22,"$4,991 ",166
+22,Rafaelita Blaksland,India,15,Mint Chip Choco,26-Jan-22,"$15,491 ",85
+22,Rafaelita Blaksland,Canada,4,99% Dark & Pure,02-Mar-22,"$5,096 ",142
+24,Van Tuxwell,Australia,2,70% Dark Bites,10-Jan-22,"$7,063 ",104
+3,Beverie Moffet,USA,2,70% Dark Bites,27-Jun-22,"$2,275 ",115
+2,Barr Faughny,Canada,16,Orange Choco,30-Jun-22,"$7,602 ",18
+23,Roddy Speechley,Australia,3,85% Dark Bars,08-Jul-22,"$4,200 ",80
+21,Oby Sorrel,India,21,Spicy Special Slims,08-Jun-22,"$11,137 ",88
+13,Jan Morforth,UK,13,Manuka Honey Choco,18-Aug-22,"$3,388 ",212
+15,Kaine Padly,Australia,5,After Nines,08-Apr-22,"$6,832 ",306
+25,Wilone O'Kielt,Canada,12,Fruit & Nut Bars,08-Aug-22,"$3,437 ",181
+25,Wilone O'Kielt,UK,14,Milk Bars,26-Aug-22,$301 ,65
+21,Oby Sorrel,Canada,12,Fruit & Nut Bars,14-Jan-22,"$1,869 ",158
+8,Dennison Crosswaite,USA,7,Baker's Choco Chips,11-Aug-22,"$17,465 ",271
+18,Madelene Upcott,USA,6,Almond Choco,31-May-22,"$10,143 ",24
+24,Van Tuxwell,New Zealand,1,50% Dark Bites,11-Jul-22,"$3,626 ",10
+16,Karlen McCaffrey,Canada,8,Caramel Stuffed Bars,02-Mar-22,"$3,346 ",304
+18,Madelene Upcott,Australia,19,Raspberry Choco,13-Jul-22,"$6,321 ",88
+22,Rafaelita Blaksland,UK,21,Spicy Special Slims,03-Aug-22,"$9,345 ",133
+7,Curtice Advani,UK,18,Peanut Butter Cubes,01-Mar-22,"$15,008 ",165
+17,Kelci Walkden,New Zealand,22,White Choc,13-Apr-22,"$7,609 ",150
+3,Beverie Moffet,Canada,12,Fruit & Nut Bars,14-Feb-22,"$10,332 ",180
+19,Mallorie Waber,India,22,White Choc,26-Jul-22,$819 ,213
+4,Brien Boise,UK,10,Drinking Coco,27-Jan-22,"$5,754 ",133
+14,Jehu Rudeforth,India,18,Peanut Butter Cubes,14-Apr-22,$28 ,446
+21,Oby Sorrel,USA,6,Almond Choco,19-May-22,"$6,440 ",141
+12,Husein Augar,India,11,Eclairs,09-Feb-22,"$4,956 ",58
+4,Brien Boise,UK,21,Spicy Special Slims,25-May-22,"$2,352 ",58
+21,Oby Sorrel,Australia,13,Manuka Honey Choco,26-Jan-22,"$3,906 ",76
+3,Beverie Moffet,India,22,White Choc,04-Jul-22,"$1,813 ",296
+6,Ches Bonnell,India,6,Almond Choco,13-Apr-22,"$11,788 ",73
+10,Gigi Bohling,Australia,20,Smooth Sliky Salty,25-Jan-22,"$5,768 ",119
+5,Camilla Castle,USA,3,85% Dark Bars,25-Apr-22,"$2,401 ",78
+5,Camilla Castle,USA,11,Eclairs,10-Jun-22,"$4,515 ",392
+18,Madelene Upcott,New Zealand,22,White Choc,22-Aug-22,"$10,794 ",51
+24,Van Tuxwell,India,5,After Nines,27-Jun-22,"$13,706 ",207
+12,Husein Augar,India,16,Orange Choco,30-Jun-22,"$4,361 ",40
+14,Jehu Rudeforth,India,6,Almond Choco,30-Aug-22,"$10,122 ",100
+16,Karlen McCaffrey,Australia,19,Raspberry Choco,23-Aug-22,$994 ,57
+5,Camilla Castle,New Zealand,4,99% Dark & Pure,26-Aug-22,"$2,268 ",42
+10,Gigi Bohling,Australia,16,Orange Choco,09-Mar-22,$574 ,156
+17,Kelci Walkden,UK,10,Drinking Coco,20-Apr-22,"$1,792 ",23
+19,Mallorie Waber,Canada,8,Caramel Stuffed Bars,10-Jun-22,"$4,844 ",539
+12,Husein Augar,Australia,17,Organic Choco Syrup,08-Feb-22,$938 ,158
+4,Brien Boise,Australia,22,White Choc,25-Aug-22,"$4,879 ",22
+9,Dotty Strutley,India,18,Peanut Butter Cubes,16-Feb-22,"$9,107 ",73
+8,Dennison Crosswaite,UK,4,99% Dark & Pure,30-May-22,"$12,187 ",27
+10,Gigi Bohling,New Zealand,1,50% Dark Bites,29-Jun-22,"$5,670 ",64
+10,Gigi Bohling,USA,14,Milk Bars,16-Jun-22,$476 ,133
+4,Brien Boise,UK,8,Caramel Stuffed Bars,04-Mar-22,"$2,681 ",149
+7,Curtice Advani,New Zealand,18,Peanut Butter Cubes,15-Mar-22,"$1,533 ",434
+7,Curtice Advani,New Zealand,1,50% Dark Bites,27-Jan-22,"$9,765 ",85
+3,Beverie Moffet,Canada,10,Drinking Coco,05-Jul-22,$994 ,118
+2,Barr Faughny,USA,8,Caramel Stuffed Bars,29-Mar-22,"$3,318 ",299
+19,Mallorie Waber,Canada,6,Almond Choco,12-May-22,"$4,214 ",35
+21,Oby Sorrel,USA,10,Drinking Coco,11-Mar-22,"$7,714 ",44
+4,Brien Boise,New Zealand,11,Eclairs,11-Jul-22,"$4,690 ",299
+11,Gunar Cockshoot,New Zealand,9,Choco Coated Almonds,01-Aug-22,"$13,062 ",62
+11,Gunar Cockshoot,UK,21,Spicy Special Slims,16-Feb-22,"$12,488 ",200
+7,Curtice Advani,USA,5,After Nines,13-Apr-22,"$14,147 ",235
+21,Oby Sorrel,India,9,Choco Coated Almonds,14-Feb-22,$49 ,363
+6,Ches Bonnell,Australia,18,Peanut Butter Cubes,14-Mar-22,"$10,199 ",68
+21,Oby Sorrel,Australia,21,Spicy Special Slims,26-Apr-22,"$11,389 ",26
+14,Jehu Rudeforth,Canada,13,Manuka Honey Choco,05-Apr-22,"$3,584 ",200
+5,Camilla Castle,Canada,10,Drinking Coco,03-Mar-22,"$12,481 ",264
+15,Kaine Padly,USA,21,Spicy Special Slims,13-Jun-22,"$2,107 ",175
+20,Marney O'Breen,New Zealand,2,70% Dark Bites,14-Feb-22,"$8,603 ",352
+23,Roddy Speechley,New Zealand,4,99% Dark & Pure,18-Apr-22,"$7,483 ",183
+21,Oby Sorrel,New Zealand,3,85% Dark Bars,01-Feb-22,"$3,381 ",417
+9,Dotty Strutley,New Zealand,16,Orange Choco,04-Aug-22,"$2,030 ",146
+1,Andria Kimpton,New Zealand,6,Almond Choco,05-Apr-22,"$6,559 ",158
+16,Karlen McCaffrey,Australia,4,99% Dark & Pure,26-Jan-22,"$10,822 ",168
+15,Kaine Padly,UK,5,After Nines,21-Jan-22,"$18,697 ",176
+15,Kaine Padly,Canada,5,After Nines,22-Aug-22,"$5,845 ",172
+15,Kaine Padly,UK,10,Drinking Coco,27-Jan-22,"$2,317 ",224
+22,Rafaelita Blaksland,UK,1,50% Dark Bites,16-Feb-22,"$10,150 ",68
+9,Dotty Strutley,USA,19,Raspberry Choco,03-Jan-22,"$3,437 ",46
+16,Karlen McCaffrey,USA,22,White Choc,24-Aug-22,"$4,592 ",2
+21,Oby Sorrel,USA,21,Spicy Special Slims,07-Feb-22,"$5,691 ",417
+19,Mallorie Waber,Australia,20,Smooth Sliky Salty,11-Feb-22,"$4,158 ",109
+15,Kaine Padly,Canada,17,Organic Choco Syrup,29-Mar-22,"$5,684 ",81
+20,Marney O'Breen,USA,18,Peanut Butter Cubes,15-Jun-22,$693 ,350
+8,Dennison Crosswaite,UK,20,Smooth Sliky Salty,26-Apr-22,$546 ,142
+4,Brien Boise,Australia,17,Organic Choco Syrup,15-Jul-22,"$4,263 ",264
+3,Beverie Moffet,India,17,Organic Choco Syrup,23-Jun-22,"$1,036 ",20
+8,Dennison Crosswaite,Australia,7,Baker's Choco Chips,11-Jan-22,"$13,846 ",421
+3,Beverie Moffet,UK,1,50% Dark Bites,09-Feb-22,"$2,499 ",271
+24,Van Tuxwell,UK,6,Almond Choco,06-Jun-22,"$10,689 ",204
+9,Dotty Strutley,UK,8,Caramel Stuffed Bars,10-Aug-22,"$5,768 ",235
+25,Wilone O'Kielt,Australia,20,Smooth Sliky Salty,04-Jan-22,"$2,226 ",46
+1,Andria Kimpton,Canada,2,70% Dark Bites,08-Apr-22,"$10,262 ",15
+2,Barr Faughny,UK,14,Milk Bars,02-Mar-22,"$3,864 ",430
+24,Van Tuxwell,Canada,10,Drinking Coco,15-Jun-22,"$4,900 ",709
+14,Jehu Rudeforth,Australia,5,After Nines,14-Feb-22,"$5,250 ",47
+12,Husein Augar,UK,5,After Nines,05-Jul-22,"$3,507 ",380
+2,Barr Faughny,India,15,Mint Chip Choco,12-Jan-22,"$7,413 ",465
+7,Curtice Advani,India,15,Mint Chip Choco,03-Mar-22,"$8,155 ",96
+14,Jehu Rudeforth,New Zealand,14,Milk Bars,18-May-22,"$2,478 ",188
+11,Gunar Cockshoot,India,8,Caramel Stuffed Bars,28-Jul-22,"$2,471 ",202
+7,Curtice Advani,UK,13,Manuka Honey Choco,07-Feb-22,"$1,666 ",106
+1,Andria Kimpton,India,16,Orange Choco,30-May-22,$301 ,421
+19,Mallorie Waber,Australia,19,Raspberry Choco,25-Apr-22,"$8,400 ",27
+3,Beverie Moffet,Canada,3,85% Dark Bars,16-Feb-22,"$6,139 ",45
+17,Kelci Walkden,Australia,10,Drinking Coco,04-May-22,"$1,288 ",60
+24,Van Tuxwell,Canada,2,70% Dark Bites,02-Jun-22,"$7,077 ",77
+8,Dennison Crosswaite,USA,8,Caramel Stuffed Bars,11-Jul-22,"$2,317 ",464
+3,Beverie Moffet,New Zealand,21,Spicy Special Slims,07-Jun-22,$63 ,60
+13,Jan Morforth,UK,6,Almond Choco,06-Jul-22,"$9,744 ",157
+12,Husein Augar,India,19,Raspberry Choco,15-Jun-22,"$9,954 ",154
+9,Dotty Strutley,India,15,Mint Chip Choco,14-Apr-22,"$1,260 ",239
+5,Camilla Castle,India,10,Drinking Coco,08-Aug-22,$469 ,163
+20,Marney O'Breen,UK,10,Drinking Coco,29-Mar-22,$973 ,28
+23,Roddy Speechley,Australia,17,Organic Choco Syrup,04-Jul-22,"$3,647 ",76
+6,Ches Bonnell,India,4,99% Dark & Pure,16-Feb-22,$455 ,96
+22,Rafaelita Blaksland,Canada,21,Spicy Special Slims,02-May-22,"$2,520 ",156
+24,Van Tuxwell,India,11,Eclairs,21-Jul-22,"$10,500 ",106
+11,Gunar Cockshoot,Australia,4,99% Dark & Pure,18-Aug-22,"$7,952 ",235
+15,Kaine Padly,USA,3,85% Dark Bars,22-Jun-22,$483 ,259
+5,Camilla Castle,UK,18,Peanut Butter Cubes,19-Jul-22,"$4,872 ",126
+18,Madelene Upcott,UK,18,Peanut Butter Cubes,12-Aug-22,"$7,756 ",85
+18,Madelene Upcott,USA,9,Choco Coated Almonds,07-Jun-22,"$5,446 ",132
+20,Marney O'Breen,Canada,18,Peanut Butter Cubes,08-Mar-22,"$6,594 ",91
+6,Ches Bonnell,Australia,9,Choco Coated Almonds,08-Apr-22,"$1,470 ",167
+7,Curtice Advani,Canada,11,Eclairs,06-May-22,$721 ,203
+23,Roddy Speechley,India,10,Drinking Coco,31-May-22,"$4,494 ",11
+24,Van Tuxwell,Australia,15,Mint Chip Choco,13-Jan-22,"$2,674 ",295
+8,Dennison Crosswaite,USA,2,70% Dark Bites,15-Mar-22,$658 ,77
+1,Andria Kimpton,Canada,18,Peanut Butter Cubes,16-Feb-22,"$1,127 ",319
+10,Gigi Bohling,USA,2,70% Dark Bites,14-Jan-22,"$7,364 ",196
+22,Rafaelita Blaksland,Australia,22,White Choc,21-Mar-22,"$6,818 ",102
+23,Roddy Speechley,Canada,10,Drinking Coco,17-May-22,"$6,776 ",312
+5,Camilla Castle,New Zealand,3,85% Dark Bars,08-Aug-22,"$15,099 ",55
+18,Madelene Upcott,Canada,14,Milk Bars,26-Apr-22,"$3,612 ",82
+18,Madelene Upcott,Australia,2,70% Dark Bites,15-Apr-22,"$3,710 ",260
+21,Oby Sorrel,Canada,11,Eclairs,19-May-22,"$6,111 ",591
+8,Dennison Crosswaite,Canada,10,Drinking Coco,10-Jan-22,"$2,702 ",24
+19,Mallorie Waber,New Zealand,5,After Nines,04-May-22,$483 ,228
+23,Roddy Speechley,Canada,22,White Choc,05-Apr-22,"$5,887 ",268
+1,Andria Kimpton,India,5,After Nines,17-Jan-22,$952 ,68
+23,Roddy Speechley,India,21,Spicy Special Slims,22-Mar-22,"$10,647 ",173
+9,Dotty Strutley,Australia,22,White Choc,05-Jul-22,"$6,055 ",93
+21,Oby Sorrel,Canada,16,Orange Choco,27-Apr-22,"$8,757 ",338
+15,Kaine Padly,Canada,6,Almond Choco,12-Aug-22,"$6,055 ",73
+13,Jan Morforth,UK,7,Baker's Choco Chips,11-Mar-22,$721 ,251
+14,Jehu Rudeforth,UK,12,Fruit & Nut Bars,13-May-22,"$8,589 ",229
+8,Dennison Crosswaite,USA,20,Smooth Sliky Salty,12-May-22,"$11,781 ",91
+4,Brien Boise,USA,19,Raspberry Choco,12-Jan-22,$672 ,194
+18,Madelene Upcott,New Zealand,14,Milk Bars,29-Mar-22,"$12,558 ",403
+23,Roddy Speechley,India,1,50% Dark Bites,14-Mar-22,"$8,337 ",12
+2,Barr Faughny,New Zealand,4,99% Dark & Pure,24-May-22,"$8,134 ",195
+8,Dennison Crosswaite,Canada,17,Organic Choco Syrup,28-Jan-22,"$8,491 ",75
+3,Beverie Moffet,India,6,Almond Choco,24-May-22,"$3,066 ",96
+4,Brien Boise,Australia,18,Peanut Butter Cubes,19-Aug-22,$301 ,205
+16,Karlen McCaffrey,Australia,21,Spicy Special Slims,17-May-22,"$4,410 ",323
+14,Jehu Rudeforth,USA,22,White Choc,07-Jun-22,"$6,559 ",119
+6,Ches Bonnell,Canada,17,Organic Choco Syrup,26-Jul-22,$574 ,217
+9,Dotty Strutley,India,11,Eclairs,28-Jul-22,"$2,086 ",384
+16,Karlen McCaffrey,India,2,70% Dark Bites,23-May-22,"$5,075 ",344

@@ -1,0 +1,39 @@
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Product_Key
+
+- criticality: error
+  check:
+    function: is_unique
+    arguments:
+      col_name: Product_Key
+
+- criticality: error
+  check:
+    function: is_not_less_than
+    arguments:
+      col_name: Product_Key
+      limit: 1
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Product_ID
+
+- criticality: error
+  check:
+    function: is_not_less_than
+    arguments:
+      col_name: Product_ID
+      limit: 1
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Product

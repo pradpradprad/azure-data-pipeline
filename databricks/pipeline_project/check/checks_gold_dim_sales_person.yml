@@ -1,0 +1,77 @@
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Sales_Person_Key
+
+- criticality: error
+  check:
+    function: is_unique
+    arguments:
+      col_name: Sales_Person_Key
+
+- criticality: error
+  check:
+    function: is_not_less_than
+    arguments:
+      col_name: Sales_Person_Key
+      limit: 1
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Sales_Person_ID
+
+- criticality: error
+  check:
+    function: is_not_less_than
+    arguments:
+      col_name: Sales_Person_ID
+      limit: 1
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Sales_Person
+
+- criticality: error
+  check:
+    function: regex_match
+    arguments:
+      col_name: Sales_Person
+      regex: '[a-zA-Z ]+'
+      negate: False
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: First_Name
+
+- criticality: error
+  check:
+    function: regex_match
+    arguments:
+      col_name: First_Name
+      regex: '[a-zA-Z]+'
+      negate: False
+
+
+- criticality: error
+  check:
+    function: is_not_null_and_not_empty
+    arguments:
+      col_name: Last_Name
+
+- criticality: error
+  check:
+    function: regex_match
+    arguments:
+      col_name: Last_Name
+      regex: '[a-zA-Z]+'
+      negate: False
