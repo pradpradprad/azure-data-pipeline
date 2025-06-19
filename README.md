@@ -6,6 +6,18 @@
 
 *Pipeline Architecture*
 
+## 🛠️ Pipeline
+
+![pipeline](/docs/image/pipeline.JPG)
+
+*Pipeline*
+
+## 🔄 Transformation
+
+### Bronze to Silver
+
+### Silver to Gold
+
 ## 🗂️ Data Model
 
 ![data_model](docs/image/data_model.JPG)
