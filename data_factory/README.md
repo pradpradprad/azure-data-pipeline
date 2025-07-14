@@ -164,7 +164,7 @@ This part will go deep into each activity in pipeline and their settings.
 
 - **Create catalog:** Create catalog in Databricks, provide your `Databricks Linked Service` and `Notebook path`.
 
-- **Data Processing Notebooks:** The rest of activities are `Silver notebook` to clean data from bronze. Then `Dimension notebooks` and `Fact notebook` activities to create star schema. Provide `Databricks Linked Service` and `Notebook path` in setting, then in `Base parameters` provide parameters as shown.
+- **Data Processing Notebooks:** The rest of activities are `Silver notebook` to clean data from bronze. Then `Dimension notebook` and `Fact notebook` activities to create star schema. Provide `Databricks Linked Service` and `Notebook path` in setting, then in `Base parameters` provide parameters as shown.
 
   ```
   storage_account = @pipeline().parameters.storage_account
@@ -176,6 +176,16 @@ This part will go deep into each activity in pipeline and their settings.
   ![notebook_parameter](/docs/image/data_factory_img/activity_notebook_parameter.JPG)
 
   *Notebook Parameter*
+
+### Trigger
+
+Create trigger based on your preference. For this project, I use daily trigger to run every day at `23:00`.
+
+- To create trigger, go to `Pipelines` -> select your pipeline then `Add trigger` -> `New/Edit` and create your own preference.
+
+  ![trigger](/docs/image/data_factory_img/trigger.JPG)
+
+  *Pipeline Trigger*
 
 ## ⚠️ Important Note
 
