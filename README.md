@@ -94,6 +94,10 @@ The data model follows a star schema design. Dimension tables include Sales pers
 
 *Data Model*
 
+## ⚙️ Setup
+
+Configuration details for Azure cloud services and source database can be found in the provided folders.
+
 ## 📊 Dashboard Summary
 
 Full dashboard files located in `dashboard` folder.
